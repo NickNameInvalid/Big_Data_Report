@@ -1,7 +1,9 @@
 from argparse import ArgumentParser
 from typing import Set
 
-
+import sys
+f = open("sim_columns.txt", "w+")
+sys.stdout = f
 def get_arguments():
     parser = ArgumentParser()
     parser.add_argument('-k', type=int, required=True)
@@ -43,7 +45,7 @@ COLUMNS = [
 
 def main():
     arg = get_arguments()
-    with open('Big_Data_Report/file_columns.txt', encoding='utf-8') as f:
+    with open('file_columns.txt', encoding='utf-8') as f:
         lines = f.readlines()
     
     SHINGLES = [k_shingles(c, arg.k) for c in COLUMNS]
@@ -72,4 +74,5 @@ def main():
             print(f'{filename} {result}')
 
 
-main()
+if __name__ == '__main__':
+    main()
