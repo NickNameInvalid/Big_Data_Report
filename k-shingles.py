@@ -21,6 +21,7 @@ def jaccard_similarity(set1, set2):
     return len(intersection) / len(union)
 
 DS_NAME = 'k397-673e'
+
 COLUMNS = [
     "Fiscal Year",
     "Payroll Number",
@@ -53,7 +54,7 @@ def main():
 
     for line in lines:
         line = line.split('\t')
-        filename, columns = line[0], line[1]
+        filename, columns = line[0], line[1].rstrip()
         if columns == '':
             continue
         if filename.find(DS_NAME) >= 0:
@@ -71,10 +72,11 @@ def main():
                 result.append(f'("{c1}" - "{c0}": {similarity:.2f})')
         
         if len(result) > 0:
-            result = ', '.join(result).replace("\n", "")
+            result = ', '.join(result)
             print(f'{filename} {result}')
             out_file.write(f'{filename} {result}\n')
     out_file.close()
+
 
 if __name__ == '__main__':
     main()
