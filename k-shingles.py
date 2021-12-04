@@ -2,8 +2,7 @@ from argparse import ArgumentParser
 from typing import Set
 
 import sys
-f = open("sim_columns.txt", "w+")
-sys.stdout = f
+
 def get_arguments():
     parser = ArgumentParser()
     parser.add_argument('-k', type=int, required=True)
@@ -45,6 +44,8 @@ COLUMNS = [
 
 def main():
     arg = get_arguments()
+    out_file = open("sim_columns.txt", "w+")
+    # sys.stdout = out_file
     with open('file_columns.txt', encoding='utf-8') as f:
         lines = f.readlines()
     
@@ -70,9 +71,10 @@ def main():
                 result.append(f'("{c1}" - "{c0}": {similarity:.2f})')
         
         if len(result) > 0:
-            result = ', '.join(result)
+            result = ', '.join(result).replace("\n", "")
             print(f'{filename} {result}')
-
+            out_file.write(f'{filename} {result}\n')
+    out_file.close()
 
 if __name__ == '__main__':
     main()
