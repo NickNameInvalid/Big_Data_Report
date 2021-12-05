@@ -7,6 +7,7 @@ def get_arguments():
     parser = ArgumentParser()
     parser.add_argument('-k', type=int, required=True)
     parser.add_argument('-t', type=float, required=True, help='similarity lower limit')
+    parser.add_argument('-n', type=float, required=True, help='min number of overlap columns')
     return parser.parse_args()
 
 def k_shingles(s: str, k: int) -> Set[str]:
@@ -61,6 +62,7 @@ def main():
             continue
         
         result = []
+        line_similarity = 0.0
         columns = columns.split(',')
         for c1 in columns:
             shingles1 = k_shingles(c1, arg.k)
@@ -68,10 +70,11 @@ def main():
                 similarity = jaccard_similarity(shingles0, shingles1)
                 if similarity < arg.t:
                     continue
-                result.append(f'{c1},{c0}')
+                line_similarity += similarity
+                result.append(f'({c1},{c0}: {similarity:.2f})')
                 # result.append(f'("{c1}" - "{c0}": {similarity:.2f})')
         
-        if len(result) > 0:
+        if line_similarity > arg.n:
             result = '\t'.join(result)
             print(f'{filename} {result}')
             out_file.write(f'{filename}\t{result}\n')
