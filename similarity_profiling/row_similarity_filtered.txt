@@ -1,0 +1,109 @@
+data-cityofnewyork-us.2cmn-uidm.csv	 (First Fiscal Year-Fiscal Year): 0.5000 
+data-cityofnewyork-us.2ei9-vg68.csv	 (Description-Title Description): 0.0006 
+data-cityofnewyork-us.2rh9-5vsi.csv	 (Agency Name-Agency Name): 0.0637 
+data-cityofnewyork-us.2t2c-qih9.csv	 (Agency Name-Agency Name): 0.0042 (Fiscal Year-Fiscal Year): 0.4167 
+data-cityofnewyork-us.395v-hkhg.csv	 (Fiscal Year-Fiscal Year): 0.2857 
+data-cityofnewyork-us.39g5-gbp3.csv	 (Fiscal Year-Fiscal Year): 0.4444 (Agency Name-Agency Name): 0.2186 
+data-cityofnewyork-us.3ss8-m844.csv	 (Description-Title Description): 0.0004 
+data-cityofnewyork-us.3ups-txji.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.423i-ukqr.csv	 (Agency Name-Agency Name): 0.0865 
+data-cityofnewyork-us.46m8-77gv.csv	 (First Fiscal Year-Fiscal Year): 0.2222 
+data-cityofnewyork-us.4d7f-74pe.csv	 (Fiscal Year-Fiscal Year): 0.0045 
+data-cityofnewyork-us.4fnu-iufz.csv	 (Fiscal Year-Fiscal Year): 0.0909 
+data-cityofnewyork-us.4utb-pisg.csv	 (Fiscal Year 1 -Fiscal Year): 0.1250 
+data-cityofnewyork-us.4yay-s2us.csv	 (Fiscal Year 1 -Fiscal Year): 0.1250 
+data-cityofnewyork-us.52dp-yji6.csv	 (Owner First Name-First Name): 0.0612 
+data-cityofnewyork-us.5cdu-g7c4.csv	 (Agency Name-Agency Name): 0.0653 
+data-cityofnewyork-us.5fn4-dr26.csv	 (Description-Title Description): 0.0003 
+data-cityofnewyork-us.5ri2-49bt.csv	 (Agency Name-Agency Name): 0.0640 
+data-cityofnewyork-us.68k5-hdzw.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.6anw-twe4.csv	 (FirstName-First Name): 0.0010 (LastName-Last Name): 0.0005 
+data-cityofnewyork-us.6w36-zfn5.csv	 (Fiscal Year-Fiscal Year): 0.4286 
+data-cityofnewyork-us.6yag-pnij.csv	 (Fiscal Year-Fiscal Year): 0.7778 
+data-cityofnewyork-us.7bjc-nmt5.csv	 (Fiscal Year-Fiscal Year): 0.0870 
+data-cityofnewyork-us.7hgn-sgmk.csv	 (Fiscal Year (FY)-Fiscal Year): 0.3333 
+data-cityofnewyork-us.7pza-ynkh.csv	 (Fiscal Year-Fiscal Year): 0.4286 
+data-cityofnewyork-us.7su9-xgtn.csv	 (Description-Title Description): 0.0006 
+data-cityofnewyork-us.84ax-hg3y.csv	 (Agency Name-Agency Name): 0.0039 (Fiscal Year-Fiscal Year): 0.0000 
+data-cityofnewyork-us.88m5-5vz3.csv	 (Agency Name-Agency Name): 0.0637 
+data-cityofnewyork-us.8sea-35e7.csv	 (Agency Name-Agency Name): 0.0447 
+data-cityofnewyork-us.9azj-tmjp.csv	 (Description-Title Description): 0.0004 
+data-cityofnewyork-us.9n6h-pt9g.csv	 (Description-Title Description): 0.0001 
+data-cityofnewyork-us.9tn4-3mgm.csv	 (Fiscal Year-Fiscal Year): 0.1429 (Agency Name-Agency Name): 0.0000 
+data-cityofnewyork-us.a2w2-wg79.csv	 (Fiscal Year-Fiscal Year): 0.4286 
+data-cityofnewyork-us.a9md-ynri.csv	 (First Name-First Name): 0.3033 (Last Name-Last Name): 0.2856 
+data-cityofnewyork-us.aejp-3ws7.csv	 (Fiscal year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.aqs7-v55z.csv	 (Agency Name-Agency Name): 0.0035 
+data-cityofnewyork-us.av3y-hmjv.csv	 (Fiscal Year-Fiscal Year): 0.1765 
+data-cityofnewyork-us.b37a-3faw.csv	 (First Fiscal Year-Fiscal Year): 0.1250 
+data-cityofnewyork-us.bjmk-35w5.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.brga-xeqy.csv	 (Agency Name-Agency Name): 0.0657 
+data-cityofnewyork-us.bxv9-8f4e.csv	 (Agency Name-Agency Name): 0.0653 
+data-cityofnewyork-us.d6di-qmzq.csv	 (Fiscal Year-Fiscal Year): 0.4286 
+data-cityofnewyork-us.dg92-zbpx.csv	 (AgencyName-Agency Name): 0.4742 
+data-cityofnewyork-us.e4p3-6ecr.csv	 (Agency Name-Agency Name): 0.0040 (Fiscal Year 1-Fiscal Year): 0.6250 
+data-cityofnewyork-us.exez-mxv4.csv	 (Fiscal Year-Fiscal Year): 0.0833 
+data-cityofnewyork-us.f5mc-f3zp.csv	 (Last Name-Last Name): 0.0116 (First Name-First Name): 0.0129 
+data-cityofnewyork-us.f9a8-4jby.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.feu5-w2e2.csv	 (FirstName-First Name): 0.1424 (LastName-Last Name): 0.1616 
+data-cityofnewyork-us.g9ub-hrve.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.gaq9-z3hz.csv	 (Fiscal Year-Fiscal Year): 0.5714 
+data-cityofnewyork-us.hdie-5bdv.csv	 (Fiscal Year 1 -Fiscal Year): 0.1250 
+data-cityofnewyork-us.he5b-24yw.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.hpp2-afag.csv	 (Fiscal Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.jxi9-fk59.csv	 (Agency Name-Agency Name): 0.0660 
+data-cityofnewyork-us.jz4z-kudi.csv	 (Violation Location (Borough)-Work Location Borough): 0.0360 
+data-cityofnewyork-us.jzhd-m6uv.csv	 (Description-Title Description): 0.0002 
+data-cityofnewyork-us.ka27-qx5k.csv	 (Fiscal Year (FY)-Fiscal Year): 0.8750 
+data-cityofnewyork-us.kfp4-dz4h.csv	 (Owner First Name-First Name): 0.0277 
+data-cityofnewyork-us.kpav-sd4t.csv	 (Work Location-Work Location Borough): 0.0000 (Work Location 1-Work Location Borough): 0.0157 
+data-cityofnewyork-us.m64p-r9hk.csv	 (Last Name-Last Name): 0.0013 (First Name-First Name): 0.0021 
+data-cityofnewyork-us.mdcw-n682.csv	 (Agency Name-Agency Name): 0.0028 (First Name-First Name): 0.0000 (Last Name-Last Name): 0.0000 
+data-cityofnewyork-us.mfz4-pj9t.csv	 (Fiscal Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.mwzb-yiwb.csv	 (Fiscal Year-Fiscal Year): 0.2353 (Agency Name-Agency Name): 0.2135 
+data-cityofnewyork-us.myn9-hwsy.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.n7gv-k5yt.csv	 (Description-Title Description): 0.0004 
+data-cityofnewyork-us.nbgq-j9jt.csv	 (Fiscal_Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.ng9f-agux.csv	 (Agency Name-Agency Name): 0.0667 
+data-cityofnewyork-us.nntm-ht5m.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.nzjr-3966.csv	 (Title Description-Title Description): 0.1789 
+data-cityofnewyork-us.pdk7-puui.csv	 (Agency Name-Agency Name): 0.0594 
+data-cityofnewyork-us.pqg4-dm6b.csv	 (Description-Title Description): 0.0004 
+data-cityofnewyork-us.ptev-4hud.csv	 (Description-Title Description): 0.0002 
+data-cityofnewyork-us.qe6k-pu9t.csv	 (Agency Name-Agency Name): 0.0650 
+data-cityofnewyork-us.qm5f-frjb.csv	 (Fiscal Year-Fiscal Year): 0.0000 (Description-Title Description): 0.0004 
+data-cityofnewyork-us.qt4e-9a97.csv	 (Fiscal Year-Fiscal Year): 0.2500 
+data-cityofnewyork-us.qu8g-sxqf.csv	 (First Name-First Name): 0.2480 (Last Name-Last Name): 0.2558 
+data-cityofnewyork-us.r4c5-ndkx.csv	 ( Hours-OT Hours): 0.0005 ( LastName-Last Name): 0.0060 ( FirstName-First Name): 0.0098 
+data-cityofnewyork-us.rb2h-bgai.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.rdjw-z878.csv	 (Fiscal Year-Fiscal Year): 0.5556 
+data-cityofnewyork-us.rqvv-d722.csv	 (Fiscal Year-Fiscal Year): 0.4286 
+data-cityofnewyork-us.rsnp-rdyf.csv	 (Fiscal Year-Fiscal Year): 0.1111 
+data-cityofnewyork-us.ruce-cnp6.csv	 (Fiscal Year-Fiscal Year): 0.3333 
+data-cityofnewyork-us.rukc-mmqu.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.s52s-navf.csv	 (Description-Title Description): 0.0000 (Fiscal Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.sa5w-dn2t.csv	 (Agency Name-Agency Name): 0.0653 
+data-cityofnewyork-us.sqmu-2ixd.csv	 (Agency Name-Agency Name): 0.0040 (Fiscal Year 1-Fiscal Year): 0.3750 
+data-cityofnewyork-us.syig-q8ab.csv	 (Agency Name-Agency Name): 0.0657 
+data-cityofnewyork-us.t8hj-ruu2.csv	 (Last Name-Last Name): 0.1206 (First Name-First Name): 0.0775 
+data-cityofnewyork-us.tdhn-vze8.csv	 (Fiscal Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.thut-5mdg.csv	 (Agency Name-Agency Name): 0.0046 
+data-cityofnewyork-us.tiyn-ajjm.csv	 (Fiscal Year-Fiscal Year): 0.8750 
+data-cityofnewyork-us.tncb-agv4.csv	 (Description-Title Description): 0.0005 
+data-cityofnewyork-us.ubuy-v2nw.csv	 (Fiscal Year-Fiscal Year): 0.2857 
+data-cityofnewyork-us.ugzk-a6x4.csv	 (Fiscal Year-Fiscal Year): 0.4000 (Agency Name-Agency Name): 0.0040 
+data-cityofnewyork-us.uxsm-hzx3.csv	 (Title Description-Title Description): 0.1541 
+data-cityofnewyork-us.vck7-ujai.csv	 (Agency Name-Agency Name): 0.0389 
+data-cityofnewyork-us.ven4-h25u.csv	 (Fiscal_Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.vf4p-p8ui.csv	 (Fiscal Year-Fiscal Year): 0.4444 (Agency Name-Agency Name): 0.0041 
+data-cityofnewyork-us.vuae-w6cg.csv	 (Fiscal Year-Fiscal Year): 0.2000 
+data-cityofnewyork-us.vx8i-nprf.csv	 (First Name-First Name): 0.3108 (Last Name-Last Name): 0.3082 
+data-cityofnewyork-us.wcpw-9chs.csv	 (Agency Name-Agency Name): 0.0447 
+data-cityofnewyork-us.wr4r-bue7.csv	 (Fiscal_Year-Fiscal Year): 0.1429 
+data-cityofnewyork-us.wruz-m9pp.csv	 (Agency Name-Agency Name): 0.0653 
+data-cityofnewyork-us.wwhr-5ven.csv	 (Description-Title Description): 0.0003 
+data-cityofnewyork-us.x5tk-fa54.csv	 (Agency Name-Agency Name): 0.0040 (Fiscal Year 1-Fiscal Year): 0.6250 
+data-cityofnewyork-us.xdzg-dnpg.csv	 (Agency Name-Agency Name): 0.0447 
+data-cityofnewyork-us.xeg4-ic28.csv	 (Borough Location-Work Location Borough): 0.1200 
+data-cityofnewyork-us.xip9-pe9k.csv	 (Description-Title Description): 0.0001 
+data-cityofnewyork-us.xt4f-xvjw.csv	 (Fiscal Year-Fiscal Year): 0.4286 
