@@ -68,13 +68,13 @@ def main():
                 similarity = jaccard_similarity(shingles0, shingles1)
                 if similarity < arg.t:
                     continue
-
-                result.append(f'("{c1}" - "{c0}": {similarity:.2f})')
+                result.append(f'{c1},{c0}')
+                # result.append(f'("{c1}" - "{c0}": {similarity:.2f})')
         
         if len(result) > 0:
-            result = ', '.join(result)
+            result = '\t'.join(result)
             print(f'{filename} {result}')
-            out_file.write(f'{filename} {result}\n')
+            out_file.write(f'{filename}\t{result}\n')
     out_file.close()
 
 
