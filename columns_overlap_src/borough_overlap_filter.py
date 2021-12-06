@@ -1,4 +1,5 @@
 lines = []
+import os
 
 for line in open('../sim_columns.txt'):
     line_split = line.strip().split('\t')
@@ -16,4 +17,6 @@ for line in open('../sim_columns.txt'):
         lines.append((filename, cols))
 
 for i in lines:
+    # command = 'hfs -get /user/CS-GY-6513/project_data/' + i[0]
+    # os.system(command)
     print(i)
