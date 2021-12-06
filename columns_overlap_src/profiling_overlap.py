@@ -88,17 +88,17 @@ for ds in overlap[0:1]:
         # list1 = data_set.select(data_set[sim_col[0]]).distinct().rdd.flatMap(lambda x: str(x).upper()).collect()
         # list2 = pivot_ds.select(pivot_ds[sim_col[1]]).distinct().rdd.flatMap(lambda x: str(x).upper()).collect()
         # sim = jaccard_similarity(list1, list2).quantize(Decimal('0.0000'))
-        sim = jaccard_similarity(list1, list2).quantize(Decimal('0.0000'))
-        result += "(" + sim_col[0] + '-' + sim_col[1] + '): ' + str(sim) + ' '
+        # sim = jaccard_similarity(list1, list2).quantize(Decimal('0.0000'))
+        # result += "(" + sim_col[0] + '-' + sim_col[1] + '): ' + str(sim) + ' '
         # result = str(jaccard_similarity(list1, list2).quantize(Decimal('0.0000')))
         # list1 = data_set.select(data_set[sim_col[0]]).distinct().flatMap(lambda x: x).collect()
         # list2 = pivot_ds.select(pivot_ds[sim_col[1]]).distinct().flatMap(lambda x: x).collect()
 #         result += f"({sim_col[0]}, {sim_col[1]}, {str(jaccard_similarity(list1, list2).quantize(Decimal('0.0000')))}) "
 #     new_row = spark.createDataFrame([(ds[0], result)], schema)
 #     df_result = df_result.union(new_row)
-    if result != "":
-        new_row = spark.createDataFrame([(ds[0], result)], schema)
-        df_result = df_result.union(new_row)
+#     if result != "":
+#         new_row = spark.createDataFrame([(ds[0], result)], schema)
+#         df_result = df_result.union(new_row)
 
 # df_result.select(format_string("%s\t %s", df_result.filename, df_result.sim_columns)).write.save('test.out', format="text")
 spark.stop()
