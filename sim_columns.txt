@@ -1,78 +1,945 @@
-data-cityofnewyork-us.2cmn-uidm.csv	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.23z9-6uk9.csv	Borough,Borough
+data-cityofnewyork-us.268n-a7em.csv	Borough,Borough
+data-cityofnewyork-us.276h-y36a.csv	Borough,Borough
+data-cityofnewyork-us.27x4-cbi6.csv	Borough,Borough
+data-cityofnewyork-us.2a5f-5ryi.csv	Borough,Borough
+data-cityofnewyork-us.2bnn-yakx.csv	Violation Description,Title Description
+data-cityofnewyork-us.2bsr-c6qq.csv	borough,Borough
+data-cityofnewyork-us.2c9f-2ta9.csv	Borough,Borough
+data-cityofnewyork-us.2cmn-uidm.csv	Project Type Description,Title Description	Budget Line Description,Title Description	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.2ei9-vg68.csv	Description,Title Description
+data-cityofnewyork-us.2eq2-trdu.csv	DESCRIPTION   ,Title Description
+data-cityofnewyork-us.2ewp-sa7t.csv	Borough,Borough
 data-cityofnewyork-us.2hrw-qfsu.csv	Borough,Borough	Borough/CD,Borough
+data-cityofnewyork-us.2j8u-wtju.csv	Program description,Title Description
+data-cityofnewyork-us.2k3g-r445.csv	FEE DESCRIPTION,Title Description	FEE STATUS,Leave Status
+data-cityofnewyork-us.2n4x-d97d.csv	Borough,Borough
+data-cityofnewyork-us.2pg3-gcaa.csv	Borough,Borough
+data-cityofnewyork-us.2rh9-5vsi.csv	Agency Name,Agency Name	Goal Description,Title Description
 data-cityofnewyork-us.2t2c-qih9.csv	Agency Name,Agency Name	Fiscal Year,Fiscal Year
-data-cityofnewyork-us.2wjv-he7c.csv	Agency Name,Agency Name	Date Status,Leave Status
+data-cityofnewyork-us.2vr2-vcvz.csv	BOROUGH,Borough
+data-cityofnewyork-us.2wjv-he7c.csv	Agency Name,Agency Name	Data Set Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.2xab-argn.csv	FEE DESCRIPTION,Title Description
+data-cityofnewyork-us.2xh6-psuq.csv	Project Description,Title Description
+data-cityofnewyork-us.2zbg-i8fx.csv	Borough,Borough
+data-cityofnewyork-us.3279-pp7v.csv	Borough,Borough
+data-cityofnewyork-us.32cj-z7va.csv	Borough,Borough
+data-cityofnewyork-us.355w-xvp2.csv	BoroughName,Borough
+data-cityofnewyork-us.36qa-cicj.csv	borough,Borough
+data-cityofnewyork-us.37fm-7uaa.csv	Hours,OT Hours
+data-cityofnewyork-us.37it-gmcp.csv	Borough,Borough
+data-cityofnewyork-us.395v-hkhg.csv	Fiscal Year,Fiscal Year
 data-cityofnewyork-us.39g5-gbp3.csv	Fiscal Year,Fiscal Year	Agency Name,Agency Name
+data-cityofnewyork-us.39qw-754y.csv	Case Start Date,Agency Start Date	Case Status,Leave Status
+data-cityofnewyork-us.3aka-ggej.csv	BOROUGH,Borough
+data-cityofnewyork-us.3btx-p4av.csv	Borough,Borough
+data-cityofnewyork-us.3c9q-94ad.csv	Borough,Borough
+data-cityofnewyork-us.3f5y-5web.csv	Borough,Borough
+data-cityofnewyork-us.3gkd-ddzn.csv	Borough,Borough
+data-cityofnewyork-us.3h2n-5cm9.csv	DESCRIPTION,Title Description
+data-cityofnewyork-us.3miu-myq2.csv	Borough,Borough
+data-cityofnewyork-us.3mji-gpg5.csv	Borough,Borough
+data-cityofnewyork-us.3qem-6v3v.csv	Borough,Borough
+data-cityofnewyork-us.3qfc-4tta.csv	Borough,Borough
+data-cityofnewyork-us.3r2x-bnmj.csv	Borough,Borough
 data-cityofnewyork-us.3rfa-3xsf.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
+data-cityofnewyork-us.3spy-rjpw.csv	Borough,Borough
+data-cityofnewyork-us.3ss8-m844.csv	Description,Title Description
+data-cityofnewyork-us.3ub5-4ph8.csv	BOROUGH,Borough
+data-cityofnewyork-us.3ups-txji.csv	Description,Title Description
+data-cityofnewyork-us.3w89-mz4u.csv	Borough,Borough
+data-cityofnewyork-us.3wxk-qa8q.csv	Borough,Borough
+data-cityofnewyork-us.423i-ukqr.csv	Agency Name,Agency Name
+data-cityofnewyork-us.43ab-v68i.csv	Salaries,Salaries
+data-cityofnewyork-us.43je-8syt.csv	Borough,Borough
+data-cityofnewyork-us.43nn-pn8j.csv	CUISINE DESCRIPTION,Title Description	VIOLATION DESCRIPTION,Title Description
+data-cityofnewyork-us.44t3-dj6x.csv	Borough,Borough
 data-cityofnewyork-us.46m8-77gv.csv	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year
+data-cityofnewyork-us.478a-yykk.csv	BOROUGH_CODE,Borough
+data-cityofnewyork-us.48ka-f6z6.csv	Borough,Borough
+data-cityofnewyork-us.48pb-zy2g.csv	Borough,Borough
+data-cityofnewyork-us.4cga-5i5v.csv	Borough,Borough
 data-cityofnewyork-us.4d7f-74pe.csv	Fiscal Year,Fiscal Year	Borough,Borough
+data-cityofnewyork-us.4dx7-axux.csv	Borough,Borough
+data-cityofnewyork-us.4e2n-s75z.csv	Borough,Borough
+data-cityofnewyork-us.4e8h-wu86.csv	Borough,Borough
+data-cityofnewyork-us.4epu-t832.csv	Borough,Borough
+data-cityofnewyork-us.4fnu-iufz.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.4fsz-s7id.csv	Borough,Borough
+data-cityofnewyork-us.4g4r-7dfb.csv	BOROUGH,Borough
+data-cityofnewyork-us.4hbx-ab3c.csv	Borough,Borough
+data-cityofnewyork-us.4hcv-tc5r.csv	Borough,Borough
+data-cityofnewyork-us.4iha-m5jk.csv	park_borough,Borough
+data-cityofnewyork-us.4j29-i5ry.csv	BOROUGH,Borough	DESCRIPTION,Title Description
+data-cityofnewyork-us.4k4u-823g.csv	BOROUGH,Borough	Borough Name,Borough	Permit Description,Title Description
+data-cityofnewyork-us.4kkh-qhtc.csv	Borough,Borough
+data-cityofnewyork-us.4kpn-sezh.csv	Borough,Borough
+data-cityofnewyork-us.4kse-vfnd.csv	Borough,Borough
+data-cityofnewyork-us.4nft-bihw.csv	Borough Code,Borough
+data-cityofnewyork-us.4qii-5cz9.csv	BOROUGH,Borough
 data-cityofnewyork-us.4t62-jm4m.csv	NYC Borough,Borough	Borough,Borough
 data-cityofnewyork-us.4tys-3tzj.csv	NYC Borough,Borough	Borough,Borough
+data-cityofnewyork-us.4ubz-8kkx.csv	FISCAL YEAR,Fiscal Year	DESCRIPTION,Title Description
 data-cityofnewyork-us.4utb-pisg.csv	Fiscal Year 1 ,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.4xfc-mzbg.csv	FISCAL YEAR,Fiscal Year	FISCAL YEAR PLAN,Fiscal Year
 data-cityofnewyork-us.4yay-s2us.csv	Fiscal Year 1 ,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.4zdr-zwdi.csv	BOROUGH,Borough
+data-cityofnewyork-us.4zkm-p9aw.csv	Borough,Borough
+data-cityofnewyork-us.5694-9szk.csv	Short Description,Title Description	Borough,Borough
+data-cityofnewyork-us.56u5-n9sa.csv	Borough,Borough
+data-cityofnewyork-us.56u9-ryj4.csv	BOROUGH,Borough
+data-cityofnewyork-us.5c5x-3qz9.csv	Borough,Borough
+data-cityofnewyork-us.5c9e-33xj.csv	DESCRIPTION,Title Description
+data-cityofnewyork-us.5cdu-g7c4.csv	Agency Name,Agency Name
+data-cityofnewyork-us.5ebm-myj7.csv	BOROUGH,Borough
+data-cityofnewyork-us.5fn4-dr26.csv	Borough,Borough	Description,Title Description
+data-cityofnewyork-us.5fsv-ze7v.csv	BOROUGH,Borough
+data-cityofnewyork-us.5hiy-kwc2.csv	Borough,Borough
 data-cityofnewyork-us.5hsa-dfq5.csv	Borough Name,Borough	Borough Code,Borough
+data-cityofnewyork-us.5ize-y7yh.csv	TITLE DESCRIPTION,Title Description
+data-cityofnewyork-us.5kqf-fg3n.csv	Borough,Borough
+data-cityofnewyork-us.5mdy-gux8.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.5mw2-hzqx.csv	Borough,Borough
+data-cityofnewyork-us.5npv-j6gn.csv	Borough,Borough
+data-cityofnewyork-us.5ps9-yuef.csv	BOROUGH,Borough
+data-cityofnewyork-us.5ri2-49bt.csv	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.5rzx-3686.csv	Description,Title Description
+data-cityofnewyork-us.5sbz-5u89.csv	Agency Name,Agency Name
+data-cityofnewyork-us.5tdj-xqd5.csv	Borough,Borough
+data-cityofnewyork-us.5tub-eh45.csv	Status Description,Title Description
+data-cityofnewyork-us.5u2d-n46s.csv	Security Description,Title Description
+data-cityofnewyork-us.5w2t-dbac.csv	MWBE STATUS,Leave Status	START DATE,Agency Start Date
+data-cityofnewyork-us.5ziv-wcy4.csv	BOROUGH,Borough
+data-cityofnewyork-us.6246-94tp.csv	Borough Name,Borough
+data-cityofnewyork-us.62mr-ukqs.csv	Borough,Borough
+data-cityofnewyork-us.63bz-5n3b.csv	Borough,Borough
+data-cityofnewyork-us.64gx-bycn.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.64uk-42ks.csv	borough,Borough
+data-cityofnewyork-us.65js-fhgz.csv	Borough,Borough
+data-cityofnewyork-us.66be-66yr.csv	Borough,Borough
+data-cityofnewyork-us.66yh-nemi.csv	Borough,Borough
+data-cityofnewyork-us.68k5-hdzw.csv	SourceDescription,Title Description	Borough,Borough	Description,Title Description	UnitDescription,Title Description
+data-cityofnewyork-us.68rr-d3jr.csv	Service Description,Title Description
+data-cityofnewyork-us.6anw-twe4.csv	Borough,Borough
+data-cityofnewyork-us.6kcb-9g8d.csv	Borough,Borough
+data-cityofnewyork-us.6khm-nrue.csv	BoroughName,Borough
+data-cityofnewyork-us.6rf2-gv9k.csv	BOROUGH,Borough
+data-cityofnewyork-us.6rg9-pfbz.csv	BOROUGH,Borough
+data-cityofnewyork-us.6rrm-vxj9.csv	borough,Borough
 data-cityofnewyork-us.6smc-7mk6.csv	Hours,OT Hours	Borough,Borough
-data-cityofnewyork-us.6xs6-cz7y.csv	Agency Name,Agency Name	Date Status,Leave Status
+data-cityofnewyork-us.6v28-b75u.csv	Case Status,Leave Status
+data-cityofnewyork-us.6v4b-5gp4.csv	Borough,Borough
+data-cityofnewyork-us.6w36-zfn5.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.6wee-b7wf.csv	BOROUGH,Borough
+data-cityofnewyork-us.6wjr-mhgf.csv	Borough,Borough
+data-cityofnewyork-us.6wy6-6agj.csv	Borough Name,Borough
+data-cityofnewyork-us.6xs6-cz7y.csv	Agency Name,Agency Name	Data Set Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.6yag-pnij.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.6ypq-ih9a.csv	BOROUGH,Borough
+data-cityofnewyork-us.6z8x-wfk4.csv	BOROUGH,Borough
+data-cityofnewyork-us.72r6-mtgs.csv	Borough,Borough
+data-cityofnewyork-us.72ss-25qh.csv	Agency ID,Agency Name	Brief Description,Title Description	Borough,Borough
+data-cityofnewyork-us.735p-zed8.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.756x-9djt.csv	Borough,Borough
+data-cityofnewyork-us.75e9-fg2t.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.767e-4ijc.csv	Agency Name,Agency Name	Dataset Description,Title Description
+data-cityofnewyork-us.76xm-jjuj.csv	BOROUGH,Borough
 data-cityofnewyork-us.77q4-nkfh.csv	NYC Borough,Borough	Borough,Borough
+data-cityofnewyork-us.78sn-deuh.csv	Agency Name,Agency Name
+data-cityofnewyork-us.78sp-6jhj.csv	Borough,Borough
+data-cityofnewyork-us.799n-b76v.csv	Company Description,Title Description	Borough,Borough
+data-cityofnewyork-us.7bjc-nmt5.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.7crd-d9xh.csv	borough,Borough
+data-cityofnewyork-us.7ffu-t6bw.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.7hgn-sgmk.csv	Fiscal Year (FY),Fiscal Year
+data-cityofnewyork-us.7isb-wh4c.csv	DOC. TYPE DESCRIPTION,Title Description	CLASS CODE DESCRIPTION,Title Description
+data-cityofnewyork-us.7jkp-5w5g.csv	Agency Name,Agency Name
 data-cityofnewyork-us.7kc8-z939.csv	Start Date,Agency Start Date	Borough,Borough
+data-cityofnewyork-us.7pza-ynkh.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.7ree-jtaa.csv	Borough,Borough
+data-cityofnewyork-us.7su9-xgtn.csv	Description,Title Description	Borough,Borough
+data-cityofnewyork-us.7uuj-b95m.csv	Borough,Borough
+data-cityofnewyork-us.7vy4-ats6.csv	Borough,Borough
+data-cityofnewyork-us.7yay-m4ae.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name
+data-cityofnewyork-us.7yda-ws2j.csv	Borough,Borough
+data-cityofnewyork-us.7yds-6i8e.csv	BOROUGH,Borough
+data-cityofnewyork-us.7yq2-hq9c.csv	Borough,Borough
+data-cityofnewyork-us.7ztv-6rwb.csv	Borough,Borough
+data-cityofnewyork-us.82zj-84is.csv	Borough,Borough
+data-cityofnewyork-us.83z6-smyr.csv	Borough,Borough
 data-cityofnewyork-us.84ax-hg3y.csv	Agency Name,Agency Name	Fiscal Year,Fiscal Year
-data-cityofnewyork-us.8586-3zfm.csv	BoroughCode,Borough	Borough,Borough
+data-cityofnewyork-us.8532-9v5k.csv	Borough,Borough
+data-cityofnewyork-us.8586-3zfm.csv	BoroughCode,Borough	Project Description,Title Description	Borough,Borough
+data-cityofnewyork-us.88m5-5vz3.csv	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.8a4n-zmpj.csv	Borough,Borough
+data-cityofnewyork-us.8as3-nzhd.csv	Borough,Borough
+data-cityofnewyork-us.8b6c-7uty.csv	Borough,Borough
+data-cityofnewyork-us.8dxm-n5ha.csv	Borough,Borough
 data-cityofnewyork-us.8eq5-dtjb.csv	Borough,Borough	Salaries,Salaries
+data-cityofnewyork-us.8ess-ssnw.csv	Borough,Borough
+data-cityofnewyork-us.8gpu-s594.csv	PROJECT DESCRIPTION,Title Description	BOROUGH,Borough
+data-cityofnewyork-us.8gqz-6v9v.csv	Borough,Borough
+data-cityofnewyork-us.8i9k-4gi5.csv	Borough,Borough
 data-cityofnewyork-us.8isn-pgv3.csv	Borough,Borough	Borough,Borough
+data-cityofnewyork-us.8ius-dhrr.csv	Borough,Borough
+data-cityofnewyork-us.8knn-wq9b.csv	Borough,Borough
+data-cityofnewyork-us.8p6c-94pc.csv	Borough,Borough	Week Start Date,Agency Start Date
+data-cityofnewyork-us.8pnf-vysd.csv	Agency Name,Agency Name	Dataset Description,Title Description
+data-cityofnewyork-us.8r6c-ydwk.csv	Agency Name,Agency Name
 data-cityofnewyork-us.8sea-35e7.csv	Agency Name,Agency Name	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year
-data-cityofnewyork-us.9a87-6m4x.csv	Borough,Borough	Start Date,Agency Start Date
+data-cityofnewyork-us.8u85-k342.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.8ujr-b4gc.csv	BOROUGH,Borough
+data-cityofnewyork-us.8vbp-qzz2.csv	Borough,Borough
+data-cityofnewyork-us.8vgb-zm6e.csv	Borough,Borough
+data-cityofnewyork-us.8vwk-6iz2.csv	Borough,Borough
+data-cityofnewyork-us.8wi4-bsy4.csv	borough,Borough
+data-cityofnewyork-us.8y4t-faws.csv	REUC_DESCRIPTION,Title Description
+data-cityofnewyork-us.8z5h-tzdr.csv	Borough,Borough
+data-cityofnewyork-us.8zxg-9a5c.csv	Borough,Borough
+data-cityofnewyork-us.922w-z7da.csv	borough,Borough
+data-cityofnewyork-us.94g4-w6xz.csv	DESCRIPTION,Title Description
+data-cityofnewyork-us.956m-xy24.csv	Borough,Borough
+data-cityofnewyork-us.95aa-k2ka.csv	Security Description,Title Description
+data-cityofnewyork-us.95bz-ea2t.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.97iw-vtbx.csv	Borough,Borough
+data-cityofnewyork-us.97nd-ff3i.csv	BoroughName,Borough
+data-cityofnewyork-us.97pn-acdf.csv	Borough,Borough
+data-cityofnewyork-us.98ef-fxnm.csv	park_borough,Borough
+data-cityofnewyork-us.9a87-6m4x.csv	Borough,Borough	Work Description,Title Description	Start Date,Agency Start Date
+data-cityofnewyork-us.9add-idv3.csv	Borough,Borough
+data-cityofnewyork-us.9azj-tmjp.csv	Description,Title Description
+data-cityofnewyork-us.9d9t-bmk7.csv	Borough,Borough
+data-cityofnewyork-us.9eun-chvy.csv	Borough,Borough
+data-cityofnewyork-us.9ev8-8rz6.csv	Borough,Borough
+data-cityofnewyork-us.9f5k-vxxv.csv	Borough,Borough
+data-cityofnewyork-us.9f5n-qdib.csv	Borough,Borough
+data-cityofnewyork-us.9hxz-c2kj.csv	Borough,Borough	Violation Description,Title Description
+data-cityofnewyork-us.9hyh-zkx9.csv	DESCRIPTION,Title Description	BOROUGH,Borough
+data-cityofnewyork-us.9n6h-pt9g.csv	Borough,Borough	Description,Title Description
+data-cityofnewyork-us.9nyh-gsuu.csv	Borough,Borough
+data-cityofnewyork-us.9rxf-re6u.csv	Borough Name,Borough
+data-cityofnewyork-us.9rz4-mjek.csv	Borough,Borough
+data-cityofnewyork-us.9s68-zggy.csv	Borough,Borough
+data-cityofnewyork-us.9sfa-4geq.csv	Borough,Borough
+data-cityofnewyork-us.9sys-2i9y.csv	Borough,Borough
 data-cityofnewyork-us.9tn4-3mgm.csv	Fiscal Year,Fiscal Year	Agency Name,Agency Name
-data-cityofnewyork-us.acdt-2zt9.csv	Agency Name,Agency Name	Date Status,Leave Status
+data-cityofnewyork-us.9umc-3b2y.csv	Project Description,Title Description	Borough,Borough
+data-cityofnewyork-us.9z9b-6hvk.csv	Company Description,Title Description	Borough,Borough
+data-cityofnewyork-us.a2nf-cvfm.csv	Borough,Borough
+data-cityofnewyork-us.a2nx-4u46.csv	StatusDescription,Title Description
+data-cityofnewyork-us.a2pm-dj2w.csv	Borough,Borough
+data-cityofnewyork-us.a2w2-wg79.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.a44d-m6ak.csv	Agency Name,Agency Name
+data-cityofnewyork-us.a4qt-mpr5.csv	Borough,Borough
+data-cityofnewyork-us.a5qt-5jpu.csv	Borough,Borough
+data-cityofnewyork-us.a5ru-ygsr.csv	Agency Name,Agency Name
+data-cityofnewyork-us.a5td-mswe.csv	Violation Description,Title Description
+data-cityofnewyork-us.a5ub-y4r4.csv	Borough,Borough
+data-cityofnewyork-us.a6nj-cfbz.csv	Borough,Borough
+data-cityofnewyork-us.a9md-ynri.csv	Salary,Salary	Sel Cert Description,Title Description
+data-cityofnewyork-us.acdt-2zt9.csv	Agency Name,Agency Name	Data Set Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.acxz-h8b8.csv	Borough,Borough
+data-cityofnewyork-us.ad4c-mphb.csv	Borough,Borough
+data-cityofnewyork-us.adax-9mit.csv	borough,Borough
+data-cityofnewyork-us.aejp-3ws7.csv	Fiscal year,Fiscal Year
 data-cityofnewyork-us.af2s-4k4p.csv	Hours,OT Hours	Borough,Borough
+data-cityofnewyork-us.aht6-vxai.csv	Borough Code,Borough
 data-cityofnewyork-us.aiww-p3af.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
-data-cityofnewyork-us.b37a-3faw.csv	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year	Fiscal Year 6 Amount,Fiscal Year	Fiscal Year 7 Amount,Fiscal Year	Fiscal Year 8 Amount,Fiscal Year	Fiscal Year 9 Amount,Fiscal Year
+data-cityofnewyork-us.aizm-q3sx.csv	BoroughName,Borough
+data-cityofnewyork-us.ajin-fesn.csv	Borough,Borough
+data-cityofnewyork-us.akzx-fghb.csv	park_borough,Borough
+data-cityofnewyork-us.am74-3pnv.csv	Borough,Borough
+data-cityofnewyork-us.an6v-iuem.csv	Program Description,Title Description
+data-cityofnewyork-us.aqs7-v55z.csv	Agency Name,Agency Name
+data-cityofnewyork-us.as69-ew8f.csv	DescriptionOfLoad,Title Description
+data-cityofnewyork-us.auuc-fqzi.csv	Borough,Borough
+data-cityofnewyork-us.av3y-hmjv.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.avhb-5jhc.csv	Borough,Borough
+data-cityofnewyork-us.avir-tzek.csv	Borough,Borough
+data-cityofnewyork-us.ay6v-3gm3.csv	Borough,Borough
+data-cityofnewyork-us.ay9k-vznm.csv	BoroughBronx,Borough	BoroughQueens,Borough	BoroughNonNYC,Borough
+data-cityofnewyork-us.ayeb-p4mv.csv	Borough,Borough
+data-cityofnewyork-us.az65-9z36.csv	Borough,Borough
+data-cityofnewyork-us.b37a-3faw.csv	Project Type Description,Title Description	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year	Fiscal Year 6 Amount,Fiscal Year	Fiscal Year 7 Amount,Fiscal Year	Fiscal Year 8 Amount,Fiscal Year	Fiscal Year 9 Amount,Fiscal Year	Fiscal Year 10 Amount,Fiscal Year
+data-cityofnewyork-us.b37b-brfu.csv	Borough,Borough
+data-cityofnewyork-us.b4dv-8mq4.csv	genborough,Borough	recborough,Borough
+data-cityofnewyork-us.b4mf-rg6h.csv	Borough,Borough
+data-cityofnewyork-us.b9km-gdpy.csv	BOROUGH,Borough
+data-cityofnewyork-us.bawj-6bgn.csv	Borough,Borough
+data-cityofnewyork-us.bbs3-q5us.csv	Borough,Borough
+data-cityofnewyork-us.bd8j-m46a.csv	LINE DESCRIPTION,Title Description	FISCAL YEAR,Fiscal Year	FISCAL YEAR 1,Fiscal Year	FISCAL YEAR 2,Fiscal Year	FISCAL YEAR 3,Fiscal Year	FISCAL YEAR 4,Fiscal Year
+data-cityofnewyork-us.bdjm-n7q4.csv	Borough,Borough
+data-cityofnewyork-us.bgb4-7zjj.csv	Agency Name,Agency Name	Data Set Description,Title Description
+data-cityofnewyork-us.bheb-sjfi.csv	Borough,Borough
+data-cityofnewyork-us.bhwu-wuzu.csv	Borough,Borough
+data-cityofnewyork-us.bi53-yph3.csv	BOROUGH,Borough
+data-cityofnewyork-us.bjmk-35w5.csv	Borough,Borough	Description,Title Description
+data-cityofnewyork-us.bkfu-528j.csv	Event Borough,Borough
+data-cityofnewyork-us.bkui-39n8.csv	Borough,Borough
+data-cityofnewyork-us.bmxf-3rd4.csv	Borough,Borough
+data-cityofnewyork-us.bqiq-cu78.csv	Offense Description,Title Description	PD Code Description,Title Description	Bias Motive Description,Title Description
+data-cityofnewyork-us.bquu-z2ht.csv	hours,OT Hours	Borough,Borough
+data-cityofnewyork-us.brga-xeqy.csv	Agency Name,Agency Name
+data-cityofnewyork-us.bs8b-p36w.csv	BOROUGH,Borough
+data-cityofnewyork-us.bty7-2jhb.csv	BOROUGH,Borough	Job Start Date,Agency Start Date
+data-cityofnewyork-us.bug8-9f3g.csv	Borough,Borough
+data-cityofnewyork-us.bvju-796s.csv	Borough,Borough
+data-cityofnewyork-us.bvna-6j7v.csv	Borough,Borough
+data-cityofnewyork-us.bvug-v3mm.csv	Borough,Borough
+data-cityofnewyork-us.bxv9-8f4e.csv	Agency Name,Agency Name
+data-cityofnewyork-us.by8q-dp62.csv	Borough,Borough
+data-cityofnewyork-us.bzxi-2tsw.csv	Borough,Borough
+data-cityofnewyork-us.c284-tqph.csv	Violation Description,Title Description
+data-cityofnewyork-us.c4p6-rvjs.csv	Borough,Borough
+data-cityofnewyork-us.c5vm-g2dk.csv	Borough,Borough
+data-cityofnewyork-us.caav-grv8.csv	borough,Borough
+data-cityofnewyork-us.ccgt-mp8e.csv	Borough,Borough
+data-cityofnewyork-us.cete-9g3v.csv	Borough,Borough
+data-cityofnewyork-us.cfzn-4iza.csv	Borough,Borough
+data-cityofnewyork-us.ck4n-5h6x.csv	Borough,Borough
+data-cityofnewyork-us.ckva-rq3b.csv	Data Set Description,Title Description
+data-cityofnewyork-us.cm6g-t7ye.csv	Borough,Borough
+data-cityofnewyork-us.cmni-fvnx.csv	Borough,Borough
+data-cityofnewyork-us.cpcm-i88g.csv	borough,Borough
+data-cityofnewyork-us.cqc8-am9x.csv	Borough,Borough
+data-cityofnewyork-us.cr93-x2xf.csv	Borough,Borough
+data-cityofnewyork-us.crbs-vur7.csv	Borough,Borough
+data-cityofnewyork-us.crc3-tcnm.csv	BOROUGH,Borough
+data-cityofnewyork-us.crns-fw6u.csv	BOROUGH,Borough
+data-cityofnewyork-us.ctpn-f4h4.csv	Borough,Borough
+data-cityofnewyork-us.cuzb-dmcd.csv	Borough,Borough
+data-cityofnewyork-us.cvse-perd.csv	Agency Name,Agency Name
+data-cityofnewyork-us.cwg5-cqkm.csv	Borough,Borough
 data-cityofnewyork-us.cwy2-px8b.csv	Agency Name,Agency Name	Borough,Borough
-data-cityofnewyork-us.dd6w-hnq9.csv	qBorough1,Borough	qBorough2,Borough	qBorough3,Borough	qBorough4,Borough	qBorough5,Borough
+data-cityofnewyork-us.cxcv-mgtn.csv	Borough,Borough
+data-cityofnewyork-us.cyfw-hfqk.csv	Borough,Borough
+data-cityofnewyork-us.d33y-i2m7.csv	AGENCY NAME,Agency Name	INITIATIVE DESCRIPTION,Title Description	FISCAL YEAR  ,Fiscal Year
+data-cityofnewyork-us.d4cb-8mwj.csv	Borough,Borough
+data-cityofnewyork-us.d4iy-9uh7.csv	BOROUGH,Borough
+data-cityofnewyork-us.d6di-qmzq.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.d7da-9deh.csv	Site Borough,Borough
+data-cityofnewyork-us.d83i-6us7.csv	Borough,Borough
+data-cityofnewyork-us.dbpt-pbmd.csv	Function Description,Title Description
+data-cityofnewyork-us.dcjb-es8v.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name
+data-cityofnewyork-us.dd6w-hnq9.csv	qBorough1,Borough	qBorough2,Borough	qBorough3,Borough	qBorough4,Borough	qBorough5,Borough	BOROUGHWt,Borough
+data-cityofnewyork-us.de3m-c5p4.csv	Borough,Borough
+data-cityofnewyork-us.de8q-estm.csv	event_description,Title Description
+data-cityofnewyork-us.dfr8-nudu.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.dggd-3jfu.csv	Borough,Borough
+data-cityofnewyork-us.di8r-g5w9.csv	Borough,Borough
+data-cityofnewyork-us.dm9a-ab7w.csv	BOROUGH,Borough	JOB_DESCRIPTION,Title Description
+data-cityofnewyork-us.dpm2-m9mq.csv	Borough,Borough
+data-cityofnewyork-us.dsg6-ifza.csv	Borough,Borough
 data-cityofnewyork-us.dt2z-amuf.csv	Borough,Borough	Hours,OT Hours
-data-cityofnewyork-us.dzrn-z4d7.csv	Agency Name,Agency Name	Date Status,Leave Status
+data-cityofnewyork-us.dtfq-bfpc.csv	Borough,Borough
+data-cityofnewyork-us.dtmw-avzj.csv	BOROUGH,Borough
+data-cityofnewyork-us.dvaj-b7yx.csv	Borough,Borough
+data-cityofnewyork-us.dvzp-h4k9.csv	Borough,Borough
+data-cityofnewyork-us.dxru-eun8.csv	 Borough,Borough
+data-cityofnewyork-us.dy27-rrad.csv	Borough,Borough
+data-cityofnewyork-us.dy3p-ay2d.csv	Security Description,Title Description
+data-cityofnewyork-us.dzrn-z4d7.csv	Agency Name,Agency Name	Data Set Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.e2sz-2mmc.csv	Borough,Borough
+data-cityofnewyork-us.e34y-fjmv.csv	Borough,Borough
 data-cityofnewyork-us.e3qr-idgg.csv	Borough,Borough	Fiscal Year,Fiscal Year
 data-cityofnewyork-us.e4p3-6ecr.csv	Agency Name,Agency Name	Fiscal Year 1,Fiscal Year
+data-cityofnewyork-us.e4ss-s2zn.csv	Agency Name,Agency Name
+data-cityofnewyork-us.e64w-ctmw.csv	AGENCY NAME,Agency Name	INITIATIVE DESCRIPTION,Title Description	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.e7es-jx5j.csv	Borough,Borough
+data-cityofnewyork-us.e9ah-8qv4.csv	Borough,Borough
+data-cityofnewyork-us.easq-ubfe.csv	Borough,Borough
+data-cityofnewyork-us.ebb7-mvp5.csv	BOROUGH,Borough	BOROUGH_ID,Borough
+data-cityofnewyork-us.ebkm-iyma.csv	Borough,Borough
+data-cityofnewyork-us.edk2-vkjh.csv	Borough,Borough
+data-cityofnewyork-us.egyb-4bz2.csv	Data Set Description,Title Description
+data-cityofnewyork-us.eivx-q94q.csv	Data Set Description,Title Description
 data-cityofnewyork-us.emuv-tx7t.csv	Borough,Borough	Salaries,Salaries
+data-cityofnewyork-us.en2c-j6tw.csv	Borough,Borough
+data-cityofnewyork-us.enfh-gkve.csv	BOROUGH,Borough
 data-cityofnewyork-us.erm2-nwe9.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
+data-cityofnewyork-us.esmb-8zkm.csv	Borough,Borough	Description,Title Description
+data-cityofnewyork-us.eukp-v77b.csv	Borough,Borough
+data-cityofnewyork-us.evjd-dqpz.csv	BOROUGH,Borough
+data-cityofnewyork-us.ex6k-ym48.csv	BOROUGH,Borough	FISCAL YEAR (FY),Fiscal Year
+data-cityofnewyork-us.exez-mxv4.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.exsg-kpya.csv	Borough,Borough
+data-cityofnewyork-us.eyb2-p5s8.csv	Borough,Borough
+data-cityofnewyork-us.f2cz-q2ik.csv	Borough,Borough
+data-cityofnewyork-us.f3st-eexa.csv	TITLE DESCRIPTION,Title Description
+data-cityofnewyork-us.f42p-xqaa.csv	Borough,Borough
+data-cityofnewyork-us.f4rp-2kvy.csv	Borough,Borough
+data-cityofnewyork-us.f4wx-5ve6.csv	AGENCY NAME,Agency Name
+data-cityofnewyork-us.f4yq-wry5.csv	Borough,Borough
+data-cityofnewyork-us.f6s7-vytj.csv	Borough,Borough
+data-cityofnewyork-us.f72e-3i4c.csv	Borough,Borough
+data-cityofnewyork-us.f7b6-v6v3.csv	Borough,Borough
+data-cityofnewyork-us.f9a8-4jby.csv	Description,Title Description
+data-cityofnewyork-us.f9xn-fiww.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name	BOROUGH NAME,Borough
+data-cityofnewyork-us.faiq-9dfq.csv	Violation Description,Title Description
+data-cityofnewyork-us.fbaw-uq4e.csv	CITY/BOROUGH,Borough
+data-cityofnewyork-us.fbkk-n4e3.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.fc53-9hrv.csv	BOROUGH,Borough
+data-cityofnewyork-us.fdgu-y9iy.csv	Fiscal Year,Fiscal Year	AGENCY NAME,Agency Name
+data-cityofnewyork-us.fdkv-4t4z.csv	Borough Code,Borough
+data-cityofnewyork-us.fdpt-nzk4.csv	Borough,Borough
+data-cityofnewyork-us.ff9v-9yzg.csv	Borough,Borough
+data-cityofnewyork-us.fg5j-q5nk.csv	Borough Name,Borough
+data-cityofnewyork-us.fgq8-am2v.csv	Borough,Borough	CourseDescription,Title Description
+data-cityofnewyork-us.fi8f-t673.csv	BOROUGH,Borough
+data-cityofnewyork-us.fju2-rdad.csv	Borough,Borough
+data-cityofnewyork-us.fk8w-iymp.csv	AGENCY DESCRIPTION,Title Description	TITLE DESCRIPTION,Title Description
+data-cityofnewyork-us.fn4k-qyk2.csv	BOROUGH,Borough
+data-cityofnewyork-us.fp78-wt5b.csv	borough,Borough
+data-cityofnewyork-us.fpfg-qx2w.csv	FISCAL YEAR,Fiscal Year	DESCRIPTION,Title Description
+data-cityofnewyork-us.fsis-j6x5.csv	Borough,Borough
+data-cityofnewyork-us.ftyx-fhnc.csv	Borough,Borough
+data-cityofnewyork-us.fudw-fgrp.csv	description,Title Description	cost_description,Title Description
+data-cityofnewyork-us.fuhs-xmg2.csv	Borough,Borough	Species Description,Title Description
+data-cityofnewyork-us.fuzb-9jre.csv	Borough,Borough
+data-cityofnewyork-us.fve3-eee8.csv	Borough,Borough
+data-cityofnewyork-us.fypi-ruxh.csv	Security Description,Title Description
+data-cityofnewyork-us.fzh2-sxib.csv	borough_id,Borough
+data-cityofnewyork-us.fzwc-6vqf.csv	Borough,Borough
+data-cityofnewyork-us.g2t5-u7v8.csv	FISCAL YEAR,Fiscal Year	DESCRIPTION,Title Description
+data-cityofnewyork-us.g3xg-qtbc.csv	Borough,Borough
+data-cityofnewyork-us.g4tm-nibn.csv	Borough,Borough
+data-cityofnewyork-us.g5ah-i2sh.csv	Borough,Borough
+data-cityofnewyork-us.g5gn-bmye.csv	Borough,Borough
+data-cityofnewyork-us.g76y-dcqj.csv	Borough,Borough
+data-cityofnewyork-us.g7pj-iz7m.csv	Borough,Borough
+data-cityofnewyork-us.g993-cbry.csv	Borough,Borough
+data-cityofnewyork-us.g9ub-hrve.csv	Description,Title Description
+data-cityofnewyork-us.gahm-hu5h.csv	Borough,Borough
+data-cityofnewyork-us.gaq9-z3hz.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.gbgg-xjuf.csv	BOROUGH,Borough
+data-cityofnewyork-us.ge3f-inui.csv	BoroughName,Borough	OnBoroughCode,Borough
+data-cityofnewyork-us.gezn-7mgk.csv	Project Description,Title Description	Borough,Borough
+data-cityofnewyork-us.gfej-by6h.csv	Borough,Borough
+data-cityofnewyork-us.ghgh-2vas.csv	Borough,Borough
+data-cityofnewyork-us.gi3h-3i8t.csv	Borough,Borough
+data-cityofnewyork-us.gjm4-k24g.csv	BOROUGH,Borough
+data-cityofnewyork-us.gk83-aa6y.csv	PROJECT DESCRIPTION,Title Description	Borough,Borough
+data-cityofnewyork-us.gkgs-za6m.csv	Hours,OT Hours
+data-cityofnewyork-us.gpny-cuvw.csv	Description,Title Description	Borough,Borough
+data-cityofnewyork-us.gpwd-npar.csv	BOROUGH,Borough
+data-cityofnewyork-us.grbs-nm2g.csv	BOROUGH,Borough
+data-cityofnewyork-us.gsr2-xq9e.csv	Borough,Borough
 data-cityofnewyork-us.gt6r-wh7c.csv	Borough,Borough	Salaries,Salaries
-data-cityofnewyork-us.hmw8-8is3.csv	Agency Name,Agency Name	Date Status,Leave Status
+data-cityofnewyork-us.gxt2-i5qe.csv	Borough,Borough
+data-cityofnewyork-us.gyrw-gvqc.csv	park_borough,Borough
+data-cityofnewyork-us.gzfs-3h4m.csv	AGENCY NAME,Agency Name
+data-cityofnewyork-us.h2bn-gu9k.csv	Borough,Borough
+data-cityofnewyork-us.h3qk-ybvt.csv	Borough,Borough
+data-cityofnewyork-us.h3zm-ta5h.csv	Borough,Borough
+data-cityofnewyork-us.h426-x5gi.csv	BOROUGHCODE,Borough
+data-cityofnewyork-us.h4mf-f24e.csv	BOROUGH,Borough
+data-cityofnewyork-us.h59m-jnyu.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.h5de-ndty.csv	Borough,Borough
+data-cityofnewyork-us.h5f7-3btz.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name
+data-cityofnewyork-us.h65x-gk9r.csv	Borough,Borough
+data-cityofnewyork-us.h6af-x63h.csv	Borough,Borough
+data-cityofnewyork-us.h7fs-cqma.csv	TITLE DESCRIPTION,Title Description
+data-cityofnewyork-us.h922-d8e5.csv	Borough,Borough
+data-cityofnewyork-us.h9gi-nx95.csv	BOROUGH,Borough
+data-cityofnewyork-us.hc8x-tcnd.csv	Borough,Borough
+data-cityofnewyork-us.hcf7-jp2y.csv	Borough,Borough
+data-cityofnewyork-us.hcir-3275.csv	BOROUGH,Borough
+data-cityofnewyork-us.hdie-5bdv.csv	Fiscal Year 1 ,Fiscal Year	Fiscal Year 1 Percent,Fiscal Year	Fiscal Year 2 Percent,Fiscal Year	Fiscal Year 3 Percent,Fiscal Year	Fiscal Year 4 Percent,Fiscal Year	Fiscal Year 5 Percent,Fiscal Year
+data-cityofnewyork-us.hdu7-ujt4.csv	BOROUGH,Borough
+data-cityofnewyork-us.he5b-24yw.csv	Description,Title Description
+data-cityofnewyork-us.hg8x-zxpr.csv	Borough,Borough
+data-cityofnewyork-us.hjae-yuav.csv	Borough,Borough
+data-cityofnewyork-us.hjjq-k984.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.hjvj-jfc9.csv	Borough,Borough
+data-cityofnewyork-us.hmw8-8is3.csv	Agency Name,Agency Name	Dataset Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.hnf2-ds4u.csv	Borough,Borough
+data-cityofnewyork-us.hpid-63r5.csv	Borough,Borough
+data-cityofnewyork-us.hpp2-afag.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.hu6m-9cfi.csv	Borough,Borough
 data-cityofnewyork-us.hv9n-xgy4.csv	Borough,Borough	Hours,OT Hours
+data-cityofnewyork-us.hxm3-23vy.csv	DESCRIPTION,Title Description
 data-cityofnewyork-us.hy4q-igkk.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
-data-cityofnewyork-us.ic3t-wcy2.csv	Borough,Borough	Paid,Paid	Fee Status,Leave Status
-data-cityofnewyork-us.iz2q-9x8d.csv	Borough,Borough	Paid,Paid	Fee Status,Leave Status
-data-cityofnewyork-us.jz4z-kudi.csv	Violation Location (Borough),Location Borough	Decision Location (Borough),Location Borough
-data-cityofnewyork-us.k233-bk49.csv	Agency Name,Agency Name	Date Status,Leave Status
+data-cityofnewyork-us.hyer-4e39.csv	BOROUGH,Borough
+data-cityofnewyork-us.hyur-qpyf.csv	Borough,Borough
+data-cityofnewyork-us.i296-73x5.csv	Borough Name,Borough
+data-cityofnewyork-us.i2y3-sx2e.csv	Borough,Borough
+data-cityofnewyork-us.i3a3-qxkf.csv	BOROUGH,Borough
+data-cityofnewyork-us.i3ez-z58g.csv	Borough,Borough
+data-cityofnewyork-us.i4kb-6ab6.csv	Borough,Borough
+data-cityofnewyork-us.i595-2byq.csv	BOROUGH,Borough
+data-cityofnewyork-us.i5n2-q8ck.csv	Borough,Borough
+data-cityofnewyork-us.i6b5-j7bu.csv	BOROUGH_CODE,Borough
+data-cityofnewyork-us.i6ju-7fj4.csv	Borough,Borough
+data-cityofnewyork-us.ia9u-k3t3.csv	Borough,Borough
+data-cityofnewyork-us.iaig-3vs5.csv	Borough,Borough	Descriptio,Title Description
+data-cityofnewyork-us.ibs4-k445.csv	Borough,Borough
+data-cityofnewyork-us.ic3t-wcy2.csv	Borough,Borough	Other Description,Title Description	Paid,Paid	Fee Status,Leave Status	Job Description,Title Description
+data-cityofnewyork-us.icbf-663g.csv	Sample Start Date,Agency Start Date
+data-cityofnewyork-us.if26-z6xq.csv	Borough,Borough
+data-cityofnewyork-us.ihup-vdhf.csv	Borough,Borough
+data-cityofnewyork-us.ii2w-6fne.csv	Borough,Borough
+data-cityofnewyork-us.ii3r-svjz.csv	Borough,Borough
+data-cityofnewyork-us.ikqj-pyhc.csv	Borough,Borough
+data-cityofnewyork-us.inik-59jp.csv	TITLE DESCRIPTION,Title Description
+data-cityofnewyork-us.ipu4-2q9a.csv	BOROUGH,Borough	Job Start Date,Agency Start Date
+data-cityofnewyork-us.irhv-jqz7.csv	Borough,Borough
+data-cityofnewyork-us.is5y-7g3y.csv	Borough,Borough
+data-cityofnewyork-us.it56-eyq4.csv	Borough,Borough
+data-cityofnewyork-us.itd7-gx3g.csv	BOROUGH,Borough
+data-cityofnewyork-us.ivix-m77e.csv	Project Description,Title Description	Actual Start Date,Agency Start Date	Payment Description,Title Description
+data-cityofnewyork-us.iw4r-p85g.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name	NEXT FISCAL YEAR AMOUNT,Fiscal Year
+data-cityofnewyork-us.iwdd-99mu.csv	Project Description,Title Description
+data-cityofnewyork-us.iyka-7txw.csv	Borough,Borough
+data-cityofnewyork-us.iz2q-9x8d.csv	Borough,Borough	Other Description,Title Description	Paid,Paid	Fee Status,Leave Status	Owner Type Description,Title Description	Job Description,Title Description
+data-cityofnewyork-us.j2iz-mwzu.csv	DESCRIPTION,Title Description
+data-cityofnewyork-us.j3uq-sh95.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.j46e-fnm6.csv	Borough,Borough
+data-cityofnewyork-us.j7gw-gcxi.csv	DESCRIPTION   ,Title Description
+data-cityofnewyork-us.jcih-dj9q.csv	Borough,Borough
+data-cityofnewyork-us.jdn9-td9w.csv	BOROUGH,Borough
+data-cityofnewyork-us.jege-pgbz.csv	Borough,Borough
+data-cityofnewyork-us.ji82-xba5.csv	borough,Borough
+data-cityofnewyork-us.jign-uhe6.csv	Borough,Borough
+data-cityofnewyork-us.jmr8-fdbz.csv	Borough,Borough
+data-cityofnewyork-us.jpcp-ic7c.csv	qBOROUGH,Borough
+data-cityofnewyork-us.jphp-xt7k.csv	Borough,Borough
+data-cityofnewyork-us.jpkr-jhk8.csv	Borough,Borough
+data-cityofnewyork-us.jr24-e7cr.csv	Borough,Borough
+data-cityofnewyork-us.js7p-g9f6.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.jt7v-77mi.csv	Violation Description,Title Description
+data-cityofnewyork-us.jt9i-9gxr.csv	Description ,Title Description
+data-cityofnewyork-us.jup5-7fik.csv	Borough,Borough
+data-cityofnewyork-us.jvce-szsb.csv	Borough,Borough
+data-cityofnewyork-us.jvk9-k4re.csv	BoroughName,Borough
+data-cityofnewyork-us.jvwx-xnsr.csv	Borough,Borough
+data-cityofnewyork-us.jxi9-fk59.csv	Agency Name,Agency Name
+data-cityofnewyork-us.jxyc-rxiv.csv	Borough,Borough
+data-cityofnewyork-us.jz4z-kudi.csv	Violation Description,Title Description
+data-cityofnewyork-us.jzdn-258f.csv	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.jzhd-m6uv.csv	Borough,Borough	Description,Title Description
+data-cityofnewyork-us.k233-bk49.csv	Agency Name,Agency Name	Data Set Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.k26i-s5bd.csv	Borough,Borough
+data-cityofnewyork-us.k2ic-km9j.csv	Borough,Borough
+data-cityofnewyork-us.k2ye-5mmh.csv	Borough,Borough
+data-cityofnewyork-us.k3cd-yu9d.csv	BOROUGH,Borough
+data-cityofnewyork-us.k3qa-jvkc.csv	Borough,Borough
+data-cityofnewyork-us.k4nw-2tdw.csv	Agency Name,Agency Name
+data-cityofnewyork-us.k4xi-fxp5.csv	Borough,Borough
+data-cityofnewyork-us.k5us-nav4.csv	Borough,Borough
+data-cityofnewyork-us.k5ws-xbkn.csv	Borough,Borough
+data-cityofnewyork-us.k659-gwja.csv	Borough,Borough
+data-cityofnewyork-us.k7nh-aufb.csv	Borough,Borough
+data-cityofnewyork-us.k84j-firu.csv	Borough,Borough
+data-cityofnewyork-us.ka27-qx5k.csv	Fiscal Year (FY),Fiscal Year
+data-cityofnewyork-us.kcey-vehy.csv	qBOROUGH_HOME,Borough	qBOROUGH_END,Borough
+data-cityofnewyork-us.ke49-x9wf.csv	Borough,Borough
+data-cityofnewyork-us.ke4t-kbpi.csv	Borough,Borough
+data-cityofnewyork-us.kegn-anvq.csv	Agency Name,Agency Name
+data-cityofnewyork-us.kf2b-aeh5.csv	borough,Borough
+data-cityofnewyork-us.kfgh-h6re.csv	BOROUGH,Borough
+data-cityofnewyork-us.kfp4-dz4h.csv	Borough,Borough
+data-cityofnewyork-us.kfrx-hgf8.csv	borough,Borough
+data-cityofnewyork-us.kgzj-pjna.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.kh3d-xhq7.csv	Borough,Borough
+data-cityofnewyork-us.kiv2-tbus.csv	Violation Description,Title Description
+data-cityofnewyork-us.kiyv-ks3f.csv	Borough,Borough
+data-cityofnewyork-us.kjcq-h8d9.csv	Borough,Borough
+data-cityofnewyork-us.kjey-zuvr.csv	Borough,Borough
+data-cityofnewyork-us.kjxa-7ccf.csv	Borough,Borough
+data-cityofnewyork-us.kk22-kcb6.csv	Dataset Description,Title Description
+data-cityofnewyork-us.km68-5z64.csv	Borough,Borough
+data-cityofnewyork-us.knr6-vurn.csv	Borough,Borough
+data-cityofnewyork-us.kpav-sd4t.csv	Job Description,Title Description
+data-cityofnewyork-us.kswi-37bp.csv	Borough,Borough
+data-cityofnewyork-us.kt29-ab5k.csv	Borough,Borough
+data-cityofnewyork-us.kuxa-tauh.csv	Borough,Borough
+data-cityofnewyork-us.kvfd-bves.csv	Violation Description,Title Description
+data-cityofnewyork-us.kw4v-6nqf.csv	General Description,Title Description
+data-cityofnewyork-us.kwvk-z7i9.csv	Borough,Borough
+data-cityofnewyork-us.kwxj-h5ji.csv	Borough,Borough
+data-cityofnewyork-us.ky6q-fvpr.csv	Description,Title Description
+data-cityofnewyork-us.kyad-zm4j.csv	Borough,Borough
+data-cityofnewyork-us.kyvb-rbwd.csv	Borough,Borough	NovDescription,Title Description
+data-cityofnewyork-us.kz4v-8ai2.csv	ItemDescription,Title Description
 data-cityofnewyork-us.m3fi-rt3k.csv	Fiscal Year ,Fiscal Year	Agency ,Agency Name	Borough,Borough
+data-cityofnewyork-us.m46f-nmju.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.m56g-jpua.csv	Borough,Borough
+data-cityofnewyork-us.m59i-mqex.csv	Borough,Borough
 data-cityofnewyork-us.m6ad-jy3s.csv	Borough,Borough	Salaries,Salaries
-data-cityofnewyork-us.mpk5-48av.csv	qBorough1,Borough	qBorough2,Borough	qBorough3,Borough	qBorough4,Borough	qBorough5,Borough
+data-cityofnewyork-us.mdbu-nrqn.csv	OMODescription,Title Description
+data-cityofnewyork-us.mdcw-n682.csv	Agency Name,Agency Name
+data-cityofnewyork-us.mebz-ditc.csv	borough,Borough
+data-cityofnewyork-us.mfz4-pj9t.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.mi8r-ff2q.csv	Borough,Borough
+data-cityofnewyork-us.mifw-tguq.csv	BOROUGH,Borough
+data-cityofnewyork-us.mmvm-mvi3.csv	Borough,Borough
+data-cityofnewyork-us.mpk5-48av.csv	qBorough1,Borough	qBorough2,Borough	qBorough3,Borough	qBorough4,Borough	qBorough5,Borough	BOROUGHWt,Borough
+data-cityofnewyork-us.mpqk-skis.csv	Report Start Date,Agency Start Date
+data-cityofnewyork-us.mq6n-s45c.csv	Borough,Borough
+data-cityofnewyork-us.mqdy-gu73.csv	Description,Title Description
+data-cityofnewyork-us.mrey-ykjt.csv	Borough,Borough
+data-cityofnewyork-us.mrxp-4hmg.csv	Borough,Borough
+data-cityofnewyork-us.msid-end4.csv	Borough,Borough
+data-cityofnewyork-us.mtt6-ywt4.csv	Borough,Borough
+data-cityofnewyork-us.mu46-p9is.csv	BoroughCode,Borough
+data-cityofnewyork-us.mv4k-y93f.csv	LAW_DESCRIPTION,Title Description
 data-cityofnewyork-us.mwzb-yiwb.csv	Fiscal Year,Fiscal Year	Agency Name,Agency Name
+data-cityofnewyork-us.myn9-hwsy.csv	Description,Title Description
+data-cityofnewyork-us.mzy5-smmw.csv	Borough,Borough
+data-cityofnewyork-us.n2s5-fumm.csv	Borough,Borough
+data-cityofnewyork-us.n3p6-zve2.csv	borough,Borough
+data-cityofnewyork-us.n4tc-j6kh.csv	Borough Name,Borough
+data-cityofnewyork-us.n5xc-7jfa.csv	Borough,Borough
+data-cityofnewyork-us.n6c5-95xh.csv	BOROUGH,Borough
+data-cityofnewyork-us.n6ej-pebd.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.n7gv-k5yt.csv	Description,Title Description	Borough,Borough
+data-cityofnewyork-us.n7ta-pz8k.csv	BOROUGH,Borough
+data-cityofnewyork-us.n8p9-7jxp.csv	BOROUGHCD,Borough
 data-cityofnewyork-us.nbun-wekj.csv	NYC Borough,Borough	Borough,Borough
-data-cityofnewyork-us.nyis-y4yr.csv	Borough,Borough	Paid,Paid	Fee Status,Leave Status
+data-cityofnewyork-us.ncre-qhxs.csv	BoroughID,Borough
+data-cityofnewyork-us.ng9f-agux.csv	Agency Name,Agency Name
+data-cityofnewyork-us.nhtw-fjuj.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.niy5-4j7q.csv	Borough,Borough
+data-cityofnewyork-us.nk7g-qeep.csv	Borough,Borough
+data-cityofnewyork-us.nmue-7zq2.csv	BoroughName,Borough
+data-cityofnewyork-us.nnf6-km2a.csv	Borough,Borough
+data-cityofnewyork-us.nntm-ht5m.csv	Description,Title Description
+data-cityofnewyork-us.npe5-sakb.csv	Start Date,Agency Start Date
+data-cityofnewyork-us.npnk-wrj8.csv	Borough Name,Borough
+data-cityofnewyork-us.nrik-v7ws.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name
+data-cityofnewyork-us.ntcm-2w4k.csv	Borough,Borough
+data-cityofnewyork-us.nu7n-tubp.csv	Borough,Borough
+data-cityofnewyork-us.nurr-mhyi.csv	BOROUGH,Borough
+data-cityofnewyork-us.nvgj-hbht.csv	BOROUGH,Borough
+data-cityofnewyork-us.nwjy-fdec.csv	Borough,Borough
+data-cityofnewyork-us.ny8v-zzzb.csv	Borough,Borough
+data-cityofnewyork-us.nyis-y4yr.csv	Borough,Borough	Other Description,Title Description	Paid,Paid	Fee Status,Leave Status	Job Description,Title Description
+data-cityofnewyork-us.nzjr-3966.csv	Title Description,Title Description	Union Description,Title Description
+data-cityofnewyork-us.p2d7-vcsb.csv	Borough,Borough
+data-cityofnewyork-us.p2q7-at72.csv	Contract Description,Title Description
+data-cityofnewyork-us.p2vv-pesb.csv	Description,Title Description
+data-cityofnewyork-us.p373-rwkn.csv	Borough,Borough
+data-cityofnewyork-us.p3e6-t4zv.csv	Security Description,Title Description
+data-cityofnewyork-us.p4u2-3jgx.csv	Borough,Borough
+data-cityofnewyork-us.p5v2-fwzn.csv	Borough,Borough
+data-cityofnewyork-us.p6bh-gqsg.csv	Borough,Borough
+data-cityofnewyork-us.p78i-pat6.csv	borough,Borough
+data-cityofnewyork-us.p7t3-5i9s.csv	Violation Description,Title Description
+data-cityofnewyork-us.p937-wjvj.csv	BOROUGH,Borough
+data-cityofnewyork-us.paab-n3s5.csv	Borough,Borough
+data-cityofnewyork-us.pasr-j7fb.csv	Borough,Borough
+data-cityofnewyork-us.pc34-d3sx.csv	Borough,Borough
+data-cityofnewyork-us.pd5h-92mc.csv	Borough,Borough
+data-cityofnewyork-us.pdiy-9ae5.csv	BOROUGH,Borough
+data-cityofnewyork-us.pdk7-puui.csv	Agency Name,Agency Name	Goal Description,Title Description
 data-cityofnewyork-us.pe54-wf39.csv	Borough,Borough	Borough Name,Borough
+data-cityofnewyork-us.pf3n-zn2m.csv	Borough,Borough
+data-cityofnewyork-us.pfn4-vjwr.csv	Borough,Borough
+data-cityofnewyork-us.ph29-5mxy.csv	Borough,Borough
+data-cityofnewyork-us.ph5g-sr3v.csv	Borough,Borough
+data-cityofnewyork-us.ph7v-u5f3.csv	24 HOURS,OT Hours	Borough,Borough
+data-cityofnewyork-us.pitm-atqc.csv	Borough,Borough
 data-cityofnewyork-us.pnpe-ubtz.csv	Event Start Date,Agency Start Date	Borough,Borough
+data-cityofnewyork-us.pqg4-dm6b.csv	Description,Title Description	Borough,Borough
+data-cityofnewyork-us.ptev-4hud.csv	Start Date,Agency Start Date	Description,Title Description
+data-cityofnewyork-us.ptkq-bbd4.csv	Borough,Borough
+data-cityofnewyork-us.pu45-qynj.csv	Borough,Borough
+data-cityofnewyork-us.pvqr-7yc4.csv	Violation Description,Title Description
+data-cityofnewyork-us.pvvr-75zk.csv	Borough,Borough
+data-cityofnewyork-us.pvxf-9irb.csv	Borough,Borough
+data-cityofnewyork-us.pwts-g83w.csv	Borough,Borough
 data-cityofnewyork-us.q2ni-ztsb.csv	Fiscal Year,Fiscal Year	Borough,Borough
+data-cityofnewyork-us.q5u8-89nv.csv	Borough,Borough
+data-cityofnewyork-us.q9kp-jvxv.csv	DESCRIPTION,Title Description
+data-cityofnewyork-us.q9mx-gjyn.csv	Borough,Borough
+data-cityofnewyork-us.qbce-2kcu.csv	Borough,Borough
+data-cityofnewyork-us.qbjq-atxv.csv	Agency Name,Agency Name
+data-cityofnewyork-us.qbvv-9nzz.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.qchy-end3.csv	Borough,Borough
+data-cityofnewyork-us.qdq3-9eqn.csv	Borough,Borough
+data-cityofnewyork-us.qe6k-pu9t.csv	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.qf92-qkjm.csv	Borough,Borough
+data-cityofnewyork-us.qgc5-ecnb.csv	Item_Description,Title Description
+data-cityofnewyork-us.qhm5-h46t.csv	FISCAL YEAR,Fiscal Year	DESCRIPTION,Title Description
+data-cityofnewyork-us.qj2z-ibhs.csv	Dataset Description,Title Description	Agency Notes,Agency Name
 data-cityofnewyork-us.qjvp-rnsx.csv	Fiscal Year,Fiscal Year	Borough,Borough
-data-cityofnewyork-us.qm5f-frjb.csv	Fiscal Year,Fiscal Year	Borough,Borough
+data-cityofnewyork-us.qjx7-9mep.csv	Borough,Borough
+data-cityofnewyork-us.qm5f-frjb.csv	Fiscal Year,Fiscal Year	Description,Title Description	Borough,Borough
+data-cityofnewyork-us.qmh3-uvgq.csv	Case Status,Leave Status
+data-cityofnewyork-us.qnjm-wvu5.csv	Borough,Borough
+data-cityofnewyork-us.qnuk-aubm.csv	Dataset Description,Title Description
+data-cityofnewyork-us.qnwe-j5my.csv	Borough,Borough
+data-cityofnewyork-us.qrb4-aqtx.csv	Borough,Borough
+data-cityofnewyork-us.qs5h-jhhg.csv	Borough,Borough
+data-cityofnewyork-us.qsxn-jchj.csv	Borough,Borough
+data-cityofnewyork-us.qt4e-9a97.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.qt6m-xctn.csv	borough,Borough	sign_description,Title Description
+data-cityofnewyork-us.quxm-hmyr.csv	BOROUGH,Borough
+data-cityofnewyork-us.qy7q-cb9e.csv	Borough,Borough
 data-cityofnewyork-us.qybk-bjjc.csv	Borough,Borough	Borough Name,Borough
+data-cityofnewyork-us.r465-fr2q.csv	Borough,Borough
 data-cityofnewyork-us.r4c5-ndkx.csv	 Hours,Work Hours	 Hours,OT Hours
+data-cityofnewyork-us.r4s5-tb2g.csv	Borough,Borough
+data-cityofnewyork-us.r528-jcks.csv	Borough,Borough
+data-cityofnewyork-us.r6ub-zhff.csv	Borough,Borough
+data-cityofnewyork-us.rb2h-bgai.csv	Description,Title Description
+data-cityofnewyork-us.rbvx-jqnh.csv	Start Date,Agency Start Date
+data-cityofnewyork-us.rbx6-tga4.csv	Borough,Borough	Job Description,Title Description
+data-cityofnewyork-us.rc2t-8fid.csv	Borough,Borough
+data-cityofnewyork-us.rcd4-qkns.csv	Borough,Borough
+data-cityofnewyork-us.rcf4-4vq6.csv	Agency Name,Agency Name
+data-cityofnewyork-us.rcz9-btkn.csv	Agency Name,Agency Name	Data Set Description,Title Description
+data-cityofnewyork-us.rdjw-z878.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.rear-wh5i.csv	Borough,Borough
+data-cityofnewyork-us.rf3p-853x.csv	Agency Description,Title Description
+data-cityofnewyork-us.rfu7-paqe.csv	Borough,Borough	Borough Description,Title Description
+data-cityofnewyork-us.rghe-gkg2.csv	Borough,Borough
+data-cityofnewyork-us.rhtj-vttz.csv	Borough,Borough
+data-cityofnewyork-us.rjkp-yttg.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.rma9-fm39.csv	Borough,Borough
+data-cityofnewyork-us.rmv8-86p4.csv	Borough,Borough
+data-cityofnewyork-us.rqhp-hivt.csv	Borough,Borough
+data-cityofnewyork-us.rqvv-d722.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.rrd7-vuvp.csv	Borough,Borough
+data-cityofnewyork-us.rsgh-akpg.csv	Borough,Borough
+data-cityofnewyork-us.rsnd-bbih.csv	Borough,Borough
+data-cityofnewyork-us.rsnp-rdyf.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.ruce-cnp6.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.rukc-mmqu.csv	Description,Title Description
+data-cityofnewyork-us.rvih-nhyn.csv	Borough,Borough
+data-cityofnewyork-us.rxpf-yca2.csv	Borough,Borough
+data-cityofnewyork-us.s3k6-pzi2.csv	Borough,Borough
+data-cityofnewyork-us.s3zn-tf7c.csv	Borough,Borough
+data-cityofnewyork-us.s47t-kwt5.csv	Borough,Borough
+data-cityofnewyork-us.s4kf-3yrf.csv	Borough,Borough
+data-cityofnewyork-us.s52s-navf.csv	Description,Title Description	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.s5q4-7ezf.csv	Borough,Borough
+data-cityofnewyork-us.s79c-jgrm.csv	BOROUGH,Borough
+data-cityofnewyork-us.s7yh-frbm.csv	TASK_DESCRIPTION,Title Description
+data-cityofnewyork-us.s9d3-x4fz.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.sa5w-dn2t.csv	Agency Name,Agency Name
+data-cityofnewyork-us.sbnd-xujn.csv	HWODescription,Title Description
+data-cityofnewyork-us.scjj-6yaf.csv	TenantBorough,Borough
+data-cityofnewyork-us.sh4i-rsb8.csv	Borough,Borough
+data-cityofnewyork-us.shpd-5q9m.csv	Category Description,Title Description	Borough,Borough
+data-cityofnewyork-us.sjdi-a6us.csv	Dataset Description,Title Description
+data-cityofnewyork-us.sjpy-4cc9.csv	Borough,Borough
+data-cityofnewyork-us.smdw-73pj.csv	Borough,Borough
+data-cityofnewyork-us.snck-inhz.csv	Borough,Borough
+data-cityofnewyork-us.sqb7-p8nz.csv	Borough,Borough
 data-cityofnewyork-us.sqcr-6mww.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
 data-cityofnewyork-us.sqmu-2ixd.csv	Agency Name,Agency Name	Fiscal Year 1,Fiscal Year
+data-cityofnewyork-us.ssq6-fkht.csv	BOROUGH,Borough
+data-cityofnewyork-us.sv2w-rv3k.csv	LAW_DESCRIPTION,Title Description
+data-cityofnewyork-us.swpk-hqdp.csv	Borough,Borough
 data-cityofnewyork-us.sxmw-f24h.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
-data-cityofnewyork-us.thut-5mdg.csv	Agency Name,Agency Name	Budget Fiscal Year,Fiscal Year
+data-cityofnewyork-us.sxx4-xhzg.csv	Borough,Borough
+data-cityofnewyork-us.syig-q8ab.csv	Agency Name,Agency Name
+data-cityofnewyork-us.t4re-ksn6.csv	Borough,Borough
+data-cityofnewyork-us.t5w8-y8xf.csv	Borough,Borough
+data-cityofnewyork-us.t7p9-n9dy.csv	Week Start Date,Agency Start Date
+data-cityofnewyork-us.tb8q-a3ar.csv	BOROUGH,Borough
+data-cityofnewyork-us.tbf6-u8ea.csv	Borough,Borough
+data-cityofnewyork-us.tbgj-tdd6.csv	Borough,Borough
+data-cityofnewyork-us.tc6u-8rnp.csv	Borough,Borough
+data-cityofnewyork-us.tcj7-bhry.csv	Borough,Borough
+data-cityofnewyork-us.tcwb-nry3.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.tdhn-vze8.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.tesz-9suw.csv	BOROUGH,Borough
+data-cityofnewyork-us.tfbb-gszk.csv	Borough,Borough
+data-cityofnewyork-us.tfrc-rjtr.csv	BOROUGH,Borough
+data-cityofnewyork-us.tg3t-nh4h.csv	Borough,Borough
+data-cityofnewyork-us.tg4x-b46p.csv	Borough,Borough
+data-cityofnewyork-us.tgqn-na2n.csv	Borough,Borough
+data-cityofnewyork-us.thut-5mdg.csv	Agency Name,Agency Name	Budget Fiscal Year,Fiscal Year	Object Code Description,Title Description
+data-cityofnewyork-us.tiyn-ajjm.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.tjus-cn27.csv	Borough,Borough
+data-cityofnewyork-us.tkdy-59zg.csv	Borough,Borough
+data-cityofnewyork-us.tkzt-zfpz.csv	Borough,Borough
+data-cityofnewyork-us.tm6d-hbzd.csv	BOROUGH_DESC,Borough
+data-cityofnewyork-us.tncb-agv4.csv	Description,Title Description
+data-cityofnewyork-us.tngj-drbu.csv	Borough Name,Borough
+data-cityofnewyork-us.tnry-kwh5.csv	borough_id,Borough
+data-cityofnewyork-us.tph5-57et.csv	Borough,Borough
+data-cityofnewyork-us.tphr-wtjd.csv	Borough,Borough
+data-cityofnewyork-us.tqsy-2s6w.csv	BoroughCode,Borough
+data-cityofnewyork-us.tqtj-sjs8.csv	BoroughName,Borough
+data-cityofnewyork-us.tsb8-3rct.csv	Actg-Line Description,Title Description
+data-cityofnewyork-us.tsbd-7yyy.csv	Agency Name,Agency Name	Data Set Description,Title Description
+data-cityofnewyork-us.tsy7-gcm8.csv	Borough,Borough
+data-cityofnewyork-us.tvfr-dhen.csv	Borough,Borough
+data-cityofnewyork-us.tvhc-4n5n.csv	BOROUGH,Borough
+data-cityofnewyork-us.tvpp-9vvx.csv	Event Borough,Borough
+data-cityofnewyork-us.tyfh-9h2y.csv	Borough,Borough
+data-cityofnewyork-us.tyjc-nqc2.csv	Dataset Description,Title Description
+data-cityofnewyork-us.tyv9-j3ti.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.tzuk-eq2f.csv	Borough,Borough
+data-cityofnewyork-us.tzwr-vksx.csv	BOROUGH,Borough
+data-cityofnewyork-us.u35m-9t32.csv	Borough,Borough
+data-cityofnewyork-us.u42g-qjaj.csv	FISCAL YEAR,Fiscal Year	AGENCY NAME,Agency Name
+data-cityofnewyork-us.u4hi-kt3x.csv	borough,Borough
+data-cityofnewyork-us.u553-m549.csv	Borough,Borough
+data-cityofnewyork-us.ub9e-s7ai.csv	BOROUGH,Borough
+data-cityofnewyork-us.ubdi-jgw2.csv	Borough,Borough
+data-cityofnewyork-us.ubuy-v2nw.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.ud4g-9x9z.csv	Borough,Borough
+data-cityofnewyork-us.ufzp-rrqu.csv	Borough,Borough
+data-cityofnewyork-us.ug3g-mdky.csv	Agency Name,Agency Name	Data Set Description,Title Description
+data-cityofnewyork-us.ugc2-6t2g.csv	BOROUGH,Borough
 data-cityofnewyork-us.ugzk-a6x4.csv	Fiscal Year,Fiscal Year	Agency Name,Agency Name
-data-cityofnewyork-us.un8d-rbed.csv	Borough,Borough	Start Date,Agency Start Date
+data-cityofnewyork-us.uh2w-zjsn.csv	Borough,Borough
+data-cityofnewyork-us.uhbp-tz4s.csv	BOROUGH,Borough
+data-cityofnewyork-us.uiay-nctu.csv	Borough,Borough
+data-cityofnewyork-us.ujnu-3rei.csv	Borough,Borough
+data-cityofnewyork-us.ukdt-xm28.csv	Industry Description,Title Description	Borough,Borough
+data-cityofnewyork-us.un8d-rbed.csv	Borough,Borough	Work Description,Title Description	Start Date,Agency Start Date
+data-cityofnewyork-us.unw7-yyit.csv	Dataset Description,Title Description
+data-cityofnewyork-us.uq7m-95z8.csv	Borough,Borough
+data-cityofnewyork-us.uqgd-pt5w.csv	Borough,Borough
+data-cityofnewyork-us.uqxv-h2se.csv	Borough,Borough
+data-cityofnewyork-us.ur7y-ziyb.csv	Borough,Borough
+data-cityofnewyork-us.urz7-pzb3.csv	BOROUGH,Borough
 data-cityofnewyork-us.usc3-8zwd.csv	NYC Borough,Borough	Borough,Borough
+data-cityofnewyork-us.usep-8jbt.csv	BOROUGH,Borough
+data-cityofnewyork-us.ut65-is4f.csv	Data Description,Title Description
 data-cityofnewyork-us.utpj-74fz.csv	NYC Borough,Borough	Borough,Borough
 data-cityofnewyork-us.uu87-uz8m.csv	Borough_BK,Borough	Borough_BX,Borough	Borough_MN,Borough	Borough_QN,Borough	Borough_SI,Borough
+data-cityofnewyork-us.uvpi-gqnh.csv	borough,Borough
+data-cityofnewyork-us.uvw5-9znb.csv	BOROUGH,Borough
 data-cityofnewyork-us.uwyv-629c.csv	BoroughID,Borough	Borough,Borough
+data-cityofnewyork-us.uxsm-hzx3.csv	Agency Description,Title Description	Title Description,Title Description
+data-cityofnewyork-us.uxsz-6j5j.csv	Borough,Borough
+data-cityofnewyork-us.uz9h-5uv2.csv	Borough,Borough
 data-cityofnewyork-us.uzcy-9puk.csv	Agency Name,Agency Name	Borough,Borough	Park Borough,Borough
+data-cityofnewyork-us.v475-8jcj.csv	Dataset description,Title Description
+data-cityofnewyork-us.v57i-gtxb.csv	BOROUGH,Borough
+data-cityofnewyork-us.v5w4-adxa.csv	Borough,Borough
+data-cityofnewyork-us.v6g5-uh5z.csv	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.v7hc-c85a.csv	Borough,Borough
+data-cityofnewyork-us.v9z6-t6nq.csv	Borough,Borough
+data-cityofnewyork-us.va74-3m6c.csv	Borough,Borough
+data-cityofnewyork-us.vbgf-ket3.csv	Borough,Borough
+data-cityofnewyork-us.vck7-ujai.csv	Agency Name,Agency Name
+data-cityofnewyork-us.vdem-2i66.csv	Dataset Description,Title Description	Date Status,Leave Status
+data-cityofnewyork-us.veav-vj3r.csv	Borough,Borough
 data-cityofnewyork-us.vf4p-p8ui.csv	Fiscal Year,Fiscal Year	Agency Name,Agency Name
+data-cityofnewyork-us.vfk9-3uwk.csv	Borough,Borough
+data-cityofnewyork-us.vg63-xw6u.csv	Borough,Borough
+data-cityofnewyork-us.vgmz-py3h.csv	Borough,Borough
+data-cityofnewyork-us.vhah-kvpj.csv	Borough,Borough
+data-cityofnewyork-us.vibf-3qrq.csv	Borough,Borough
+data-cityofnewyork-us.viin-czfn.csv	Borough,Borough
+data-cityofnewyork-us.vmbc-b9fa.csv	Borough,Borough
+data-cityofnewyork-us.vn2t-jh2b.csv	Borough,Borough
+data-cityofnewyork-us.vn4m-mk4t.csv	Borough,Borough
+data-cityofnewyork-us.vn74-s6rt.csv	Borough,Borough
+data-cityofnewyork-us.vpdq-ktpr.csv	Borough,Borough
+data-cityofnewyork-us.vq35-j9qm.csv	BOROUGH,Borough
+data-cityofnewyork-us.vquv-pjuh.csv	Borough,Borough
+data-cityofnewyork-us.vspn-8tzq.csv	Borough,Borough
+data-cityofnewyork-us.vtjm-ngnu.csv	Borough,Borough
+data-cityofnewyork-us.vuae-w6cg.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.vvj6-d5qx.csv	Borough,Borough
+data-cityofnewyork-us.vvym-pu7g.csv	Borough,Borough
+data-cityofnewyork-us.vw9i-7mzq.csv	Borough,Borough
+data-cityofnewyork-us.vwpc-kje2.csv	BRIEF_DESCRIPTION,Title Description
+data-cityofnewyork-us.vwxi-2r5k.csv	BOROUGH,Borough
+data-cityofnewyork-us.vxrc-r6hh.csv	Borough,Borough
 data-cityofnewyork-us.vz8c-29aj.csv	Borough,Borough	Hours,OT Hours
+data-cityofnewyork-us.vzcf-ypyz.csv	Borough,Borough
+data-cityofnewyork-us.w2pb-icbu.csv	BOROUGH,Borough
+data-cityofnewyork-us.w38c-pyzq.csv	Borough,Borough
+data-cityofnewyork-us.w49t-5gha.csv	Borough,Borough
+data-cityofnewyork-us.w5y2-8cs3.csv	Borough,Borough
+data-cityofnewyork-us.w6sr-ei44.csv	Borough,Borough
+data-cityofnewyork-us.w6yt-hctp.csv	Borough,Borough
+data-cityofnewyork-us.w76s-c5u4.csv	StatusDescription,Title Description	Borough,Borough
+data-cityofnewyork-us.w7w3-xahh.csv	Borough Code,Borough
+data-cityofnewyork-us.w8dz-xpjh.csv	Borough,Borough
+data-cityofnewyork-us.w9ak-ipjd.csv	Borough,Borough
+data-cityofnewyork-us.w9ei-idxz.csv	Borough,Borough
 data-cityofnewyork-us.wcm8-aq5w.csv	NYC Borough,Borough	Borough,Borough
+data-cityofnewyork-us.wcpw-9chs.csv	Agency Name,Agency Name
+data-cityofnewyork-us.weh8-3ujf.csv	DESCRIPTION,Title Description	Borough,Borough
+data-cityofnewyork-us.wf9c-gupx.csv	Borough,Borough
+data-cityofnewyork-us.wfzh-2c94.csv	Borough,Borough
+data-cityofnewyork-us.wg5a-mubp.csv	Borough,Borough
+data-cityofnewyork-us.wpnz-dpup.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.wruz-m9pp.csv	Agency Name,Agency Name
+data-cityofnewyork-us.wstu-wcnw.csv	Borough,Borough
+data-cityofnewyork-us.wswf-9pts.csv	Borough,Borough
+data-cityofnewyork-us.wtqm-fd2z.csv	Borough,Borough
+data-cityofnewyork-us.wusu-mzmq.csv	FISCAL YEAR,Fiscal Year
+data-cityofnewyork-us.wv4q-e75v.csv	Borough,Borough
+data-cityofnewyork-us.wvts-6tdf.csv	Borough,Borough
+data-cityofnewyork-us.wvxf-dwi5.csv	Borough,Borough	NOVDescription,Title Description
+data-cityofnewyork-us.wwhr-5ven.csv	Description,Title Description	Borough Code,Borough
+data-cityofnewyork-us.wxhr-qbhz.csv	Borough,Borough
+data-cityofnewyork-us.wye7-nyek.csv	Project Description,Title Description	Borough,Borough	Permit Start Date,Agency Start Date
+data-cityofnewyork-us.wz6d-d3jb.csv	Borough,Borough
+data-cityofnewyork-us.wzur-rhz9.csv	Borough,Borough
+data-cityofnewyork-us.x2hp-8ukt.csv	Borough,Borough
+data-cityofnewyork-us.x2sd-f2zp.csv	Agency Name,Agency Name	Dataset Description,Title Description
+data-cityofnewyork-us.x3n4-h56k.csv	 Borough,Borough
+data-cityofnewyork-us.x4sg-2jca.csv	Borough,Borough
+data-cityofnewyork-us.x4ud-jhxu.csv	Borough,Borough
+data-cityofnewyork-us.x4x8-m3ds.csv	Borough,Borough
 data-cityofnewyork-us.x5tk-fa54.csv	Agency Name,Agency Name	Fiscal Year 1,Fiscal Year
+data-cityofnewyork-us.x882-mwt5.csv	hq_borough,Borough
+data-cityofnewyork-us.x9i6-ckbm.csv	borough,Borough
+data-cityofnewyork-us.xagh-idmf.csv	Agency Name,Agency Name	Dataset Description,Title Description
+data-cityofnewyork-us.xck4-5xd5.csv	borough,Borough	hours,OT Hours
+data-cityofnewyork-us.xdqu-utzq.csv	Borough,Borough
+data-cityofnewyork-us.xdzg-dnpg.csv	Agency Name,Agency Name
+data-cityofnewyork-us.xefy-6ent.csv	BOROUGH,Borough
+data-cityofnewyork-us.xeg4-ic28.csv	Week Start Date,Agency Start Date
+data-cityofnewyork-us.xggi-kgx9.csv	Borough,Borough
+data-cityofnewyork-us.xhvt-s4va.csv	Borough,Borough
+data-cityofnewyork-us.xi7c-iiu2.csv	Borough,Borough
+data-cityofnewyork-us.xip9-pe9k.csv	Description,Title Description
+data-cityofnewyork-us.xirx-msjc.csv	Borough,Borough
+data-cityofnewyork-us.xjcm-e5uy.csv	Borough,Borough
+data-cityofnewyork-us.xk6g-r83g.csv	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.xkkx-md5q.csv	Borough,Borough
+data-cityofnewyork-us.xmmq-y7za.csv	Work_Description,Title Description	Floor_Description,Title Description
+data-cityofnewyork-us.xp25-gxux.csv	Borough,Borough
 data-cityofnewyork-us.xphq-immx.csv	Borough,Borough	Borough Code,Borough
+data-cityofnewyork-us.xqmg-7z3j.csv	Borough,Borough
 data-cityofnewyork-us.xrwg-eczf.csv	Agency Name,Agency Name	Borough,Borough
+data-cityofnewyork-us.xsd9-52hv.csv	Borough,Borough
+data-cityofnewyork-us.xt4f-xvjw.csv	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.xubg-57si.csv	BOROUGH,Borough
+data-cityofnewyork-us.xx2p-4jnq.csv	Borough,Borough
+data-cityofnewyork-us.xxjs-y9yk.csv	Borough,Borough
+data-cityofnewyork-us.xywu-7bv9.csv	Borough,Borough
+data-cityofnewyork-us.y4fw-iqfr.csv	Borough,Borough
+data-cityofnewyork-us.y4pq-zdn5.csv	Debt Description,Title Description
+data-cityofnewyork-us.y7az-s7wc.csv	Borough Code,Borough
+data-cityofnewyork-us.y9b6-624z.csv	Borough,Borough
+data-cityofnewyork-us.y9si-s7ab.csv	borough,Borough
+data-cityofnewyork-us.ycrg-ses3.csv	Hours,OT Hours
+data-cityofnewyork-us.ye3c-m4ga.csv	AGENCY NAME,Agency Name
 data-cityofnewyork-us.ygfr-ij6t.csv	Borough/City,Borough	Fiscal Year Amount,Fiscal Year	Borough,Borough
+data-cityofnewyork-us.yhdx-itry.csv	Borough,Borough
+data-cityofnewyork-us.yiet-hu2w.csv	Borough,Borough
+data-cityofnewyork-us.yiqb-mq9h.csv	Borough,Borough
+data-cityofnewyork-us.yj3u-pw36.csv	Borough,Borough
 data-cityofnewyork-us.yjub-udmw.csv	Borough,Borough	Borough Name,Borough
+data-cityofnewyork-us.yjxr-fw8i.csv	Borough,Borough
+data-cityofnewyork-us.ykx2-pdw8.csv	Borough,Borough
+data-cityofnewyork-us.ymvu-4x4s.csv	Borough,Borough
+data-cityofnewyork-us.ymyu-3dbp.csv	Borough,Borough
+data-cityofnewyork-us.ynaw-bmnm.csv	Borough,Borough
+data-cityofnewyork-us.ynqa-y42e.csv	Borough,Borough
+data-cityofnewyork-us.ypm7-drwf.csv	Borough,Borough
+data-cityofnewyork-us.yqhh-93zq.csv	BOROUGHCD,Borough
+data-cityofnewyork-us.yqky-aebb.csv	Borough,Borough
 data-cityofnewyork-us.yr5p-wjer.csv	NYC Borough,Borough	Borough,Borough
-data-cityofnewyork-us.yvxd-uipr.csv	Borough,Borough	Borough Code,Borough
+data-cityofnewyork-us.yrf7-4wry.csv	Borough,Borough
+data-cityofnewyork-us.ys48-9d3c.csv	LoadInDescription,Title Description
+data-cityofnewyork-us.yunp-vs8g.csv	Borough,Borough
+data-cityofnewyork-us.yv25-wqf9.csv	park_borough,Borough
+data-cityofnewyork-us.yv4m-nu6d.csv	BOROUGH,Borough
+data-cityofnewyork-us.yvxd-uipr.csv	Borough,Borough	Borough Code,Borough	Project Description,Title Description
+data-cityofnewyork-us.ywm2-wzzf.csv	Agency Name,Agency Name	Data Set Description,Title Description
+data-cityofnewyork-us.zpd4-gad8.csv	Borough,Borough

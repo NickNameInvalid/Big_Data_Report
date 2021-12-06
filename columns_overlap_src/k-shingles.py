@@ -29,8 +29,6 @@ COLUMNS = [
     "Agency Name",
     "Agency Start Date",
     "Borough",
-    "Location Borough",
-    "Work Location Borough"
     "Title Description",
     "Leave Status",
     "Salary",
@@ -43,6 +41,27 @@ COLUMNS = [
     "OT Hours"
 ]
 
+# COLUMNS = [
+#     "Fiscal Year",
+#     "Payroll Number",
+#     "Agency Name",
+#     "Last Name",
+#     "First Name",
+#     "Mid Init",
+#     "Agency Start Date",
+#     "Work Location Borough",
+#     "Title Description",
+#     "Leave Status as of June 30",
+#     "Base Salary",
+#     "Pay Basis",
+#     "Regular Hours",
+#     "Regular Gross Paid",
+#     "OT Hours",
+#     "Total OT Paid",
+#     "Total Other Pay"
+# ]
+
+
 
 def main():
     arg = get_arguments()
@@ -51,7 +70,7 @@ def main():
     with open('../overlap_metadata/file_columns.txt', encoding='utf-8') as f:
         lines = f.readlines()
     
-    SHINGLES = [k_shingles(c, arg.k) for c in COLUMNS]
+    SHINGLES = [k_shingles(c.upper(), arg.k) for c in COLUMNS]
 
     for line in lines:
         line = line.split('\t')
@@ -65,7 +84,7 @@ def main():
         line_similarity = 0.0
         columns = columns.split(',')
         for c1 in columns:
-            shingles1 = k_shingles(c1, arg.k)
+            shingles1 = k_shingles(c1.upper(), arg.k)
             for c0, shingles0 in zip(COLUMNS, SHINGLES):
                 similarity = jaccard_similarity(shingles0, shingles1)
                 if similarity < arg.t:
