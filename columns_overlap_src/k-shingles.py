@@ -71,7 +71,8 @@ def main():
                 if similarity < arg.t:
                     continue
                 line_similarity += similarity
-                result.append(f'({c1},{c0}: {similarity:.2f})')
+                # result.append(f'({c1},{c0}: {similarity:.2f})')
+                result.append(f'{c1},{c0}')
                 # result.append(f'("{c1}" - "{c0}": {similarity:.2f})')
         
         if line_similarity > arg.n:

@@ -1,58 +1,58 @@
-data-cityofnewyork-us.2cmn-uidm.csv	(Project Type Description,Title Description: 0.44)	(Budget Line Description,Title Description: 0.46)	(First Fiscal Year,Fiscal Year: 0.67)	(Fiscal Year 1 Amount,Fiscal Year: 0.53)	(Fiscal Year 2 Amount,Fiscal Year: 0.53)	(Fiscal Year 3 Amount,Fiscal Year: 0.53)	(Fiscal Year 4 Amount,Fiscal Year: 0.53)	(Fiscal Year 5 Amount,Fiscal Year: 0.53)
-data-cityofnewyork-us.2rh9-5vsi.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.2t2c-qih9.csv	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)	(Fiscal Year,Fiscal Year: 1.00)
-data-cityofnewyork-us.39g5-gbp3.csv	(Fiscal Year,Fiscal Year: 1.00)	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)
-data-cityofnewyork-us.3rfa-3xsf.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Park Borough,Work Location Borough: 0.43)	(School Number,Payroll Number: 0.47)
-data-cityofnewyork-us.46m8-77gv.csv	(First Fiscal Year,Fiscal Year: 0.67)	(Fiscal Year 1 Amount,Fiscal Year: 0.53)	(Fiscal Year 2 Amount,Fiscal Year: 0.53)	(Fiscal Year 3 Amount,Fiscal Year: 0.53)	(Fiscal Year 4 Amount,Fiscal Year: 0.53)
-data-cityofnewyork-us.4utb-pisg.csv	(Fiscal Year 1 ,Fiscal Year: 0.77)	(Fiscal Year 1 Amount,Fiscal Year: 0.53)	(Fiscal Year 2 Amount,Fiscal Year: 0.53)	(Fiscal Year 3 Amount,Fiscal Year: 0.53)	(Fiscal Year 4 Amount,Fiscal Year: 0.53)	(Fiscal Year 5 Amount,Fiscal Year: 0.53)
-data-cityofnewyork-us.4yay-s2us.csv	(Fiscal Year 1 ,Fiscal Year: 0.77)	(Fiscal Year 1 Amount,Fiscal Year: 0.53)	(Fiscal Year 2 Amount,Fiscal Year: 0.53)	(Fiscal Year 3 Amount,Fiscal Year: 0.53)	(Fiscal Year 4 Amount,Fiscal Year: 0.53)	(Fiscal Year 5 Amount,Fiscal Year: 0.53)
-data-cityofnewyork-us.52dp-yji6.csv	(ApplicantFirst Name,First Name: 0.50)	(Applicant Last Name,Last Name: 0.47)	(Owner First Name,First Name: 0.60)	(Owner Last Name,Last Name: 0.57)	(Total Amount Paid,Total OT Paid: 0.47)
-data-cityofnewyork-us.5ri2-49bt.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.68k5-hdzw.csv	(SourceDescription,Title Description: 0.45)	(LatestActionDescription,Title Description: 0.42)	(Description,Title Description: 0.62)	(UnitDescription,Title Description: 0.58)
-data-cityofnewyork-us.73qb-dcc3.csv	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Middle Initial,Mid Init: 0.43)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)
-data-cityofnewyork-us.84ax-hg3y.csv	(Agency Code,Agency Name: 0.43)	(Agency Name,Agency Name: 1.00)	(Fiscal Year,Fiscal Year: 1.00)	(Agency Group,Agency Name: 0.40)
-data-cityofnewyork-us.88m5-5vz3.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.8sea-35e7.csv	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)	(Fiscal Year 1 Amount,Fiscal Year: 0.53)	(Fiscal Year 2 Amount,Fiscal Year: 0.53)	(Fiscal Year 3 Amount,Fiscal Year: 0.53)	(Fiscal Year 4 Amount,Fiscal Year: 0.53)
-data-cityofnewyork-us.a9md-ynri.csv	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(List Title Desc,Title Description: 0.43)	(Salary,Base Salary: 0.50)	(Sel Cert Description,Title Description: 0.46)
-data-cityofnewyork-us.aiww-p3af.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Park Borough,Work Location Borough: 0.43)	(School Number,Payroll Number: 0.47)
-data-cityofnewyork-us.b37a-3faw.csv	(Project Type Description,Title Description: 0.44)	(First Fiscal Year,Fiscal Year: 0.67)	(Fiscal Year 1 Amount,Fiscal Year: 0.53)	(Fiscal Year 2 Amount,Fiscal Year: 0.53)	(Fiscal Year 3 Amount,Fiscal Year: 0.53)	(Fiscal Year 4 Amount,Fiscal Year: 0.53)	(Fiscal Year 5 Amount,Fiscal Year: 0.53)	(Fiscal Year 6 Amount,Fiscal Year: 0.53)	(Fiscal Year 7 Amount,Fiscal Year: 0.53)	(Fiscal Year 8 Amount,Fiscal Year: 0.53)	(Fiscal Year 9 Amount,Fiscal Year: 0.53)	(Fiscal Year 10 Amount,Fiscal Year: 0.50)
-data-cityofnewyork-us.bty7-2jhb.csv	(Job Start Date,Agency Start Date: 0.53)	(Permittee's First Name,First Name: 0.43)	(Permittee's Last Name,Last Name: 0.40)	(Owner's First Name,First Name: 0.53)	(Owner's Last Name,Last Name: 0.50)
-data-cityofnewyork-us.dg92-zbpx.csv	(StartDate,Agency Start Date: 0.41)	(AgencyName,Agency Name: 0.73)	(CategoryDescription,Title Description: 0.42)	(SelectionMethodDescription,Title Description: 0.41)	(AdditionalDescription1,Title Description: 0.48)	(AdditionalDesctription2,Title Description: 0.40)	(AdditionalDescription3,Title Description: 0.48)
-data-cityofnewyork-us.e4p3-6ecr.csv	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)	(Line Number Description,Title Description: 0.46)	(Fiscal Year 1,Fiscal Year: 0.83)
-data-cityofnewyork-us.erm2-nwe9.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Resolution Description,Title Description: 0.50)	(Park Borough,Work Location Borough: 0.43)
-data-cityofnewyork-us.f5mc-f3zp.csv	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)
-data-cityofnewyork-us.hdie-5bdv.csv	(Fiscal Year 1 ,Fiscal Year: 0.77)	(Fiscal Year 1 Percent,Fiscal Year: 0.50)	(Fiscal Year 2 Percent,Fiscal Year: 0.50)	(Fiscal Year 3 Percent,Fiscal Year: 0.50)	(Fiscal Year 4 Percent,Fiscal Year: 0.50)	(Fiscal Year 5 Percent,Fiscal Year: 0.50)
-data-cityofnewyork-us.hy4q-igkk.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Park Borough,Work Location Borough: 0.43)	(School Number,Payroll Number: 0.47)
-data-cityofnewyork-us.ic3t-wcy2.csv	(Other Description,Title Description: 0.52)	(Applicant's First Name,First Name: 0.43)	(Applicant's Last Name,Last Name: 0.40)	(Owner's First Name,First Name: 0.53)	(Owner's Last Name,Last Name: 0.50)	(Job Description,Title Description: 0.58)
-data-cityofnewyork-us.ipu4-2q9a.csv	(Job Start Date,Agency Start Date: 0.53)	(Permittee's First Name,First Name: 0.43)	(Permittee's Last Name,Last Name: 0.40)	(Owner's First Name,First Name: 0.53)	(Owner's Last Name,Last Name: 0.50)
-data-cityofnewyork-us.ivix-m77e.csv	(Project Description,Title Description: 0.48)	(Estimated Start Date,Agency Start Date: 0.43)	(Actual Start Date,Agency Start Date: 0.45)	(Contract Start Date,Agency Start Date: 0.43)	(Payment Description,Title Description: 0.48)
-data-cityofnewyork-us.iz2q-9x8d.csv	(Other Description,Title Description: 0.52)	(Applicant's First Name,First Name: 0.43)	(Applicant's Last Name,Last Name: 0.40)	(Owner Type Description,Title Description: 0.48)	(Owner's First Name,First Name: 0.53)	(Owner's Last Name,Last Name: 0.50)	(Job Description,Title Description: 0.58)
-data-cityofnewyork-us.j9q2-y739.csv	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)
-data-cityofnewyork-us.jz4z-kudi.csv	(Respondent First Name,First Name: 0.47)	(Respondent Last Name,Last Name: 0.44)	(Violation Location (Borough),Work Location Borough: 0.60)	(Decision Location (Borough),Work Location Borough: 0.56)	(Violation Description,Title Description: 0.52)	(Charge #1: Code Description,Title Description: 0.41)	(Charge #2: Code Description,Title Description: 0.41)	(Charge #3: Code Description,Title Description: 0.41)	(Charge #4: Code Description,Title Description: 0.41)	(Charge #5: Code Description,Title Description: 0.41)	(Charge #6: Code Description,Title Description: 0.41)	(Charge #7: Code Description,Title Description: 0.41)	(Charge #8: Code Description,Title Description: 0.41)	(Charge #9: Code Description,Title Description: 0.41)	(Charge #10: Code Description,Title Description: 0.40)
-data-cityofnewyork-us.jzdn-258f.csv	(Agency Code,Agency Name: 0.43)	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.kfp4-dz4h.csv	(Applicant First Name,First Name: 0.50)	(Applicant Last Name,Last Name: 0.47)	(Owner First Name,First Name: 0.60)	(Owner Last Name,Last Name: 0.57)
-data-cityofnewyork-us.kpav-sd4t.csv	(Agency,Agency Name: 0.50)	(Work Location,Work Location Borough: 0.63)	(Job Description,Title Description: 0.58)	(Work Location 1,Work Location Borough: 0.65)
-data-cityofnewyork-us.m64p-r9hk.csv	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)
-data-cityofnewyork-us.mdcw-n682.csv	(Agency Name,Agency Name: 1.00)	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(Middle Initial,Mid Init: 0.43)
-data-cityofnewyork-us.mwzb-yiwb.csv	(Fiscal Year,Fiscal Year: 1.00)	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)
-data-cityofnewyork-us.nyis-y4yr.csv	(Other Description,Title Description: 0.52)	(Applicant's First Name,First Name: 0.43)	(Applicant's Last Name,Last Name: 0.40)	(Owner's First Name,First Name: 0.53)	(Owner's Last Name,Last Name: 0.50)	(Job Description,Title Description: 0.58)
-data-cityofnewyork-us.nzjr-3966.csv	(Title Description,Title Description: 1.00)	(Union Description,Title Description: 0.58)	(Bargaining Unit Description,Title Description: 0.43)
-data-cityofnewyork-us.pdk7-puui.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.qe6k-pu9t.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.qm5f-frjb.csv	(Fiscal Year,Fiscal Year: 1.00)	(Agency,Agency Name: 0.50)	(Description,Title Description: 0.62)
-data-cityofnewyork-us.qu8g-sxqf.csv	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(List Title Desc,Title Description: 0.43)
-data-cityofnewyork-us.r4c5-ndkx.csv	( Hours,Regular Hours: 0.42)	( Hours,OT Hours: 0.71)	( StartDate,Agency Start Date: 0.47)	( LastName,Last Name: 0.60)	( FirstName,First Name: 0.64)
-data-cityofnewyork-us.rps4-dwwk.csv	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)
-data-cityofnewyork-us.s52s-navf.csv	(Agency,Agency Name: 0.50)	(Description,Title Description: 0.62)	(Fiscal Year,Fiscal Year: 1.00)
-data-cityofnewyork-us.sqcr-6mww.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Park Borough,Work Location Borough: 0.43)	(School Number,Payroll Number: 0.47)
-data-cityofnewyork-us.sqmu-2ixd.csv	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)	(Line Number Description,Title Description: 0.46)	(Fiscal Year 1,Fiscal Year: 0.83)
-data-cityofnewyork-us.sxmw-f24h.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Park Borough,Work Location Borough: 0.43)	(School Number,Payroll Number: 0.47)
-data-cityofnewyork-us.t8hj-ruu2.csv	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)
-data-cityofnewyork-us.thut-5mdg.csv	(Agency Name,Agency Name: 1.00)	(Agency Code,Agency Name: 0.43)	(Budget Fiscal Year,Fiscal Year: 0.59)	(Object Code Description,Title Description: 0.46)	(Capital Project Description,Title Description: 0.40)
-data-cityofnewyork-us.ugzk-a6x4.csv	(Fiscal Year,Fiscal Year: 1.00)	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)
-data-cityofnewyork-us.uzcy-9puk.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Park Borough,Work Location Borough: 0.43)	(School Number,Payroll Number: 0.47)
-data-cityofnewyork-us.v6g5-uh5z.csv	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
-data-cityofnewyork-us.vf4p-p8ui.csv	(Fiscal Year,Fiscal Year: 1.00)	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)
-data-cityofnewyork-us.vx8i-nprf.csv	(First Name,Last Name: 0.55)	(First Name,First Name: 1.00)	(Last Name,Last Name: 1.00)	(Last Name,First Name: 0.55)	(List Title Desc,Title Description: 0.43)
-data-cityofnewyork-us.x5tk-fa54.csv	(Agency Number,Agency Name: 0.47)	(Agency Name,Agency Name: 1.00)	(Line Number Description,Title Description: 0.46)	(Fiscal Year 1,Fiscal Year: 0.83)
-data-cityofnewyork-us.xk6g-r83g.csv	(Agency Code,Agency Name: 0.43)	(Agency,Agency Name: 0.50)	(Agency Name,Agency Name: 1.00)	(Goal Description,Title Description: 0.55)
+data-cityofnewyork-us.2cmn-uidm.csv	Project Type Description,Title Description	Budget Line Description,Title Description	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.2rh9-5vsi.csv	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.2t2c-qih9.csv	Agency Number,Agency Name	Agency Name,Agency Name	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.39g5-gbp3.csv	Fiscal Year,Fiscal Year	Agency Number,Agency Name	Agency Name,Agency Name
+data-cityofnewyork-us.3rfa-3xsf.csv	Agency,Agency Name	Agency Name,Agency Name	Park Borough,Work Location Borough	School Number,Payroll Number
+data-cityofnewyork-us.46m8-77gv.csv	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year
+data-cityofnewyork-us.4utb-pisg.csv	Fiscal Year 1 ,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.4yay-s2us.csv	Fiscal Year 1 ,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year
+data-cityofnewyork-us.52dp-yji6.csv	ApplicantFirst Name,First Name	Applicant Last Name,Last Name	Owner First Name,First Name	Owner Last Name,Last Name	Total Amount Paid,Total OT Paid
+data-cityofnewyork-us.5ri2-49bt.csv	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.68k5-hdzw.csv	SourceDescription,Title Description	LatestActionDescription,Title Description	Description,Title Description	UnitDescription,Title Description
+data-cityofnewyork-us.73qb-dcc3.csv	First Name,Last Name	First Name,First Name	Middle Initial,Mid Init	Last Name,Last Name	Last Name,First Name
+data-cityofnewyork-us.84ax-hg3y.csv	Agency Code,Agency Name	Agency Name,Agency Name	Fiscal Year,Fiscal Year	Agency Group,Agency Name
+data-cityofnewyork-us.88m5-5vz3.csv	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.8sea-35e7.csv	Agency Number,Agency Name	Agency Name,Agency Name	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year
+data-cityofnewyork-us.a9md-ynri.csv	First Name,Last Name	First Name,First Name	Last Name,Last Name	Last Name,First Name	List Title Desc,Title Description	Salary,Base Salary	Sel Cert Description,Title Description
+data-cityofnewyork-us.aiww-p3af.csv	Agency,Agency Name	Agency Name,Agency Name	Park Borough,Work Location Borough	School Number,Payroll Number
+data-cityofnewyork-us.b37a-3faw.csv	Project Type Description,Title Description	First Fiscal Year,Fiscal Year	Fiscal Year 1 Amount,Fiscal Year	Fiscal Year 2 Amount,Fiscal Year	Fiscal Year 3 Amount,Fiscal Year	Fiscal Year 4 Amount,Fiscal Year	Fiscal Year 5 Amount,Fiscal Year	Fiscal Year 6 Amount,Fiscal Year	Fiscal Year 7 Amount,Fiscal Year	Fiscal Year 8 Amount,Fiscal Year	Fiscal Year 9 Amount,Fiscal Year	Fiscal Year 10 Amount,Fiscal Year
+data-cityofnewyork-us.bty7-2jhb.csv	Job Start Date,Agency Start Date	Permittee's First Name,First Name	Permittee's Last Name,Last Name	Owner's First Name,First Name	Owner's Last Name,Last Name
+data-cityofnewyork-us.dg92-zbpx.csv	StartDate,Agency Start Date	AgencyName,Agency Name	CategoryDescription,Title Description	SelectionMethodDescription,Title Description	AdditionalDescription1,Title Description	AdditionalDesctription2,Title Description	AdditionalDescription3,Title Description
+data-cityofnewyork-us.e4p3-6ecr.csv	Agency Number,Agency Name	Agency Name,Agency Name	Line Number Description,Title Description	Fiscal Year 1,Fiscal Year
+data-cityofnewyork-us.erm2-nwe9.csv	Agency,Agency Name	Agency Name,Agency Name	Resolution Description,Title Description	Park Borough,Work Location Borough
+data-cityofnewyork-us.f5mc-f3zp.csv	Last Name,Last Name	Last Name,First Name	First Name,Last Name	First Name,First Name
+data-cityofnewyork-us.hdie-5bdv.csv	Fiscal Year 1 ,Fiscal Year	Fiscal Year 1 Percent,Fiscal Year	Fiscal Year 2 Percent,Fiscal Year	Fiscal Year 3 Percent,Fiscal Year	Fiscal Year 4 Percent,Fiscal Year	Fiscal Year 5 Percent,Fiscal Year
+data-cityofnewyork-us.hy4q-igkk.csv	Agency,Agency Name	Agency Name,Agency Name	Park Borough,Work Location Borough	School Number,Payroll Number
+data-cityofnewyork-us.ic3t-wcy2.csv	Other Description,Title Description	Applicant's First Name,First Name	Applicant's Last Name,Last Name	Owner's First Name,First Name	Owner's Last Name,Last Name	Job Description,Title Description
+data-cityofnewyork-us.ipu4-2q9a.csv	Job Start Date,Agency Start Date	Permittee's First Name,First Name	Permittee's Last Name,Last Name	Owner's First Name,First Name	Owner's Last Name,Last Name
+data-cityofnewyork-us.ivix-m77e.csv	Project Description,Title Description	Estimated Start Date,Agency Start Date	Actual Start Date,Agency Start Date	Contract Start Date,Agency Start Date	Payment Description,Title Description
+data-cityofnewyork-us.iz2q-9x8d.csv	Other Description,Title Description	Applicant's First Name,First Name	Applicant's Last Name,Last Name	Owner Type Description,Title Description	Owner's First Name,First Name	Owner's Last Name,Last Name	Job Description,Title Description
+data-cityofnewyork-us.j9q2-y739.csv	First Name,Last Name	First Name,First Name	Last Name,Last Name	Last Name,First Name
+data-cityofnewyork-us.jz4z-kudi.csv	Respondent First Name,First Name	Respondent Last Name,Last Name	Violation Location (Borough),Work Location Borough	Decision Location (Borough),Work Location Borough	Violation Description,Title Description	Charge #1: Code Description,Title Description	Charge #2: Code Description,Title Description	Charge #3: Code Description,Title Description	Charge #4: Code Description,Title Description	Charge #5: Code Description,Title Description	Charge #6: Code Description,Title Description	Charge #7: Code Description,Title Description	Charge #8: Code Description,Title Description	Charge #9: Code Description,Title Description	Charge #10: Code Description,Title Description
+data-cityofnewyork-us.jzdn-258f.csv	Agency Code,Agency Name	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.kfp4-dz4h.csv	Applicant First Name,First Name	Applicant Last Name,Last Name	Owner First Name,First Name	Owner Last Name,Last Name
+data-cityofnewyork-us.kpav-sd4t.csv	Agency,Agency Name	Work Location,Work Location Borough	Job Description,Title Description	Work Location 1,Work Location Borough
+data-cityofnewyork-us.m64p-r9hk.csv	Last Name,Last Name	Last Name,First Name	First Name,Last Name	First Name,First Name
+data-cityofnewyork-us.mdcw-n682.csv	Agency Name,Agency Name	First Name,Last Name	First Name,First Name	Last Name,Last Name	Last Name,First Name	Middle Initial,Mid Init
+data-cityofnewyork-us.mwzb-yiwb.csv	Fiscal Year,Fiscal Year	Agency Number,Agency Name	Agency Name,Agency Name
+data-cityofnewyork-us.nyis-y4yr.csv	Other Description,Title Description	Applicant's First Name,First Name	Applicant's Last Name,Last Name	Owner's First Name,First Name	Owner's Last Name,Last Name	Job Description,Title Description
+data-cityofnewyork-us.nzjr-3966.csv	Title Description,Title Description	Union Description,Title Description	Bargaining Unit Description,Title Description
+data-cityofnewyork-us.pdk7-puui.csv	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.qe6k-pu9t.csv	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.qm5f-frjb.csv	Fiscal Year,Fiscal Year	Agency,Agency Name	Description,Title Description
+data-cityofnewyork-us.qu8g-sxqf.csv	First Name,Last Name	First Name,First Name	Last Name,Last Name	Last Name,First Name	List Title Desc,Title Description
+data-cityofnewyork-us.r4c5-ndkx.csv	 Hours,Regular Hours	 Hours,OT Hours	 StartDate,Agency Start Date	 LastName,Last Name	 FirstName,First Name
+data-cityofnewyork-us.rps4-dwwk.csv	First Name,Last Name	First Name,First Name	Last Name,Last Name	Last Name,First Name
+data-cityofnewyork-us.s52s-navf.csv	Agency,Agency Name	Description,Title Description	Fiscal Year,Fiscal Year
+data-cityofnewyork-us.sqcr-6mww.csv	Agency,Agency Name	Agency Name,Agency Name	Park Borough,Work Location Borough	School Number,Payroll Number
+data-cityofnewyork-us.sqmu-2ixd.csv	Agency Number,Agency Name	Agency Name,Agency Name	Line Number Description,Title Description	Fiscal Year 1,Fiscal Year
+data-cityofnewyork-us.sxmw-f24h.csv	Agency,Agency Name	Agency Name,Agency Name	Park Borough,Work Location Borough	School Number,Payroll Number
+data-cityofnewyork-us.t8hj-ruu2.csv	Last Name,Last Name	Last Name,First Name	First Name,Last Name	First Name,First Name
+data-cityofnewyork-us.thut-5mdg.csv	Agency Name,Agency Name	Agency Code,Agency Name	Budget Fiscal Year,Fiscal Year	Object Code Description,Title Description	Capital Project Description,Title Description
+data-cityofnewyork-us.ugzk-a6x4.csv	Fiscal Year,Fiscal Year	Agency Number,Agency Name	Agency Name,Agency Name
+data-cityofnewyork-us.uzcy-9puk.csv	Agency,Agency Name	Agency Name,Agency Name	Park Borough,Work Location Borough	School Number,Payroll Number
+data-cityofnewyork-us.v6g5-uh5z.csv	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
+data-cityofnewyork-us.vf4p-p8ui.csv	Fiscal Year,Fiscal Year	Agency Number,Agency Name	Agency Name,Agency Name
+data-cityofnewyork-us.vx8i-nprf.csv	First Name,Last Name	First Name,First Name	Last Name,Last Name	Last Name,First Name	List Title Desc,Title Description
+data-cityofnewyork-us.x5tk-fa54.csv	Agency Number,Agency Name	Agency Name,Agency Name	Line Number Description,Title Description	Fiscal Year 1,Fiscal Year
+data-cityofnewyork-us.xk6g-r83g.csv	Agency Code,Agency Name	Agency,Agency Name	Agency Name,Agency Name	Goal Description,Title Description
