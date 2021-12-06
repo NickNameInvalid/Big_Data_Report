@@ -1,8 +1,9 @@
 import sys
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
-from pyspark.sql.functions import format_string, date_format
+from pyspark.sql.functions import format_string, date_format, upper
 from decimal import *
+from pyspark.sql.types import StringType
 from pyspark.sql.functions import col
 import pyspark.sql.functions as func
 
@@ -36,6 +37,12 @@ def jaccard_similarity(list1, list2):
     return sim
 
 
+def jaccard_similarity_df(df1, df2):
+    intersection = df1.intersect(df2).count()
+    union = df1.union(df2).count()
+    sim = 0.0 if union == 0 else Decimal(str(intersection * 1.0 / union * 1.0))
+    return sim
+
 def parse_overlap_line(line):
     l_line = line.strip('\n').split('\t', 1)
     filename = l_line[0]
@@ -64,7 +71,7 @@ schema = StructType([
     StructField("sim_columns", StringType(), True)])
 df_result = spark.createDataFrame([], schema)
 
-for ds in overlap:
+for ds in overlap[0:1]:
     filepath = sys.argv[1] + '/' + ds[0]
     sim_cols = ds[1]
     data_set = spark.read.format('csv').options(header='true', inferschema='false').load(filepath)
@@ -72,8 +79,15 @@ for ds in overlap:
     result = ""
     # print(sim_cols)
     for sim_col in sim_cols:
-        list1 = data_set.select(data_set[sim_col[0]]).distinct().rdd.flatMap(lambda x: x).collect()
-        list2 = pivot_ds.select(pivot_ds[sim_col[1]]).distinct().rdd.flatMap(lambda x: x).collect()
+        # list1 = list(data_set.select(data_set[sim_col[0]]).toPandas()[sim_col[0]])
+        # list2 = list(pivot_ds.select(data_set[sim_col[1]]).toPandas()[sim_col[1]])
+        list1 = [row[sim_col[0]] for row in data_set.collect()]
+        list2 = [row[sim_col[1]] for row in pivot_ds.collect()]
+        # list1 = data_set.select(data_set[sim_col[0]]).withColumn(sim_col[0], data_set[sim_col[0]].cast(StringType())).withColumn(sim_col[0], upper(col=sim_col[0])).distinct()
+        # list2 = pivot_ds.select(pivot_ds[sim_col[1]]).withColumn(sim_col[1], data_set[sim_col[1]].cast(StringType())).withColumn(sim_col[1], upper(col=sim_col[1])).distinct()
+        # list1 = data_set.select(data_set[sim_col[0]]).distinct().rdd.flatMap(lambda x: str(x).upper()).collect()
+        # list2 = pivot_ds.select(pivot_ds[sim_col[1]]).distinct().rdd.flatMap(lambda x: str(x).upper()).collect()
+        # sim = jaccard_similarity(list1, list2).quantize(Decimal('0.0000'))
         sim = jaccard_similarity(list1, list2).quantize(Decimal('0.0000'))
         result += "(" + sim_col[0] + '-' + sim_col[1] + '): ' + str(sim) + ' '
         # result = str(jaccard_similarity(list1, list2).quantize(Decimal('0.0000')))
@@ -86,6 +100,6 @@ for ds in overlap:
         new_row = spark.createDataFrame([(ds[0], result)], schema)
         df_result = df_result.union(new_row)
 
-df_result.select(format_string("%s\t %s", df_result.filename, df_result.sim_columns)).write.save('test.out', format="text")
+# df_result.select(format_string("%s\t %s", df_result.filename, df_result.sim_columns)).write.save('test.out', format="text")
 spark.stop()
 
