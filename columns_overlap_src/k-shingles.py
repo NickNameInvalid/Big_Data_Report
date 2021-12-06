@@ -46,9 +46,9 @@ COLUMNS = [
 
 def main():
     arg = get_arguments()
-    out_file = open("sim_columns.txt", "w+")
+    out_file = open("../sim_columns.txt", "w+")
     # sys.stdout = out_file
-    with open('file_columns.txt', encoding='utf-8') as f:
+    with open('../overlap_metadata/file_columns.txt', encoding='utf-8') as f:
         lines = f.readlines()
     
     SHINGLES = [k_shingles(c, arg.k) for c in COLUMNS]
