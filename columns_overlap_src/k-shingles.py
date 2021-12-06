@@ -27,28 +27,28 @@ COLUMNS = [
     "Fiscal Year",
     "Payroll Number",
     "Agency Name",
-    "Last Name",
-    "First Name",
-    "Mid Init",
     "Agency Start Date",
-    "Work Location Borough",
+    "Borough",
+    "Location Borough",
+    "Work Location Borough"
     "Title Description",
-    "Leave Status as of June 30",
+    "Leave Status",
+    "Salary",
+    "Salaries",
     "Base Salary",
     "Pay Basis",
+    "Paid",
     "Regular Hours",
-    "Regular Gross Paid",
-    "OT Hours",
-    "Total OT Paid",
-    "Total Other Pay"
+    "Work Hours",
+    "OT Hours"
 ]
 
 
 def main():
     arg = get_arguments()
-    out_file = open("../sim_columns.txt", "w+")
+    out_file = open("./sim_columns.txt", "w")
     # sys.stdout = out_file
-    with open('../overlap_metadata/file_columns.txt', encoding='utf-8') as f:
+    with open('Big_Data_Report/overlap_metadata/file_columns.txt', encoding='utf-8') as f:
         lines = f.readlines()
     
     SHINGLES = [k_shingles(c, arg.k) for c in COLUMNS]
