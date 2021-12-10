@@ -1,5 +1,6 @@
 .idea
 project_data
+data
 data_simple.txt
 .ipynb_checkpoints
 reference_data/borough_rows_all.csv
