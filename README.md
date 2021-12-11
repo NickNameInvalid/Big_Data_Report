@@ -8,17 +8,27 @@
 
 ## Project Description
 
-In our daily life, we may encounter a huge number of datasets with different quality. In some datasets, values of certain attributes were missing while in some datasets, some values were incorrect in people's cognition. In which case data profiling and data cleaning were necessary. In this project, we took the dataset "Citywide Payroll Data (Fiscal Year)" as our starting point, and mining the data privided by data.cityofnewyork.us webpage. Profiling and cleaning the portential low quality data and analysising them. From our data mining procedure, we may achieve the objects below:
+In our daily life, we may encounter a huge number of datasets with different quality. In some datasets, values of certain attributes were missing while in some datasets, some values were incorrect in people's cognition. In which case data profiling and data cleaning
+were necessary, which formed two main approaches in our project. In this project, we would use data profiling techniques, a process of validation on the data from available sources [1], to analyze the data structure, check the effectiveness of each data and inspect the defect of the data set hunted and mined by us. And we would apply our strategies to clean the defected data, starting from a specific assigned data set and extending them to multiple data sets we discovered.
+We took the dataset "Citywide Payroll Data (Fiscal Year)" as our starting point, and mined the data sets provided by NYC OpenData Profiling and cleaning the potential low quality data and analyzing, visualizing them, and generating useful potential reference data.
 
-1. Finding the dataset which has overlap columns with our starting point with some similarity techniques.
+In this project, we came up with the problems below:
 
-2. Profiling some typical datasets, spoting out the defects of these dataset and applying our data clean methods to them.
+* Starting from the dataset "Citywide Payroll Data (Fiscal
+Year)", how can we find the datasets with overlap fields via
+data hunting?
+* *How can we apply our data clean strategy to the datasets
+we found?
+* *How well does our original data clean strategy work? What
+more can we learn from these datasets or what's the differ-
+ence between our original dataset and new datasets?
+* How can we improve our strategy to increase the effective-
+ness of data clean?
+* How to generate reference data which could be used for
+future data clean tasks?
+* How to extend our strategies to all the datasets we may find?
 
-3. Compare the data we spoted out with the overlap column in our starting point with some analysising approaches.
-
-4. Generate our own reference data from the starting point and contributing them
-
-5. Create an experiment report, including what we did, what we found in these datasets and described the effectiveness of our data cleaning and try to extend our approaches to all the datasets.
+After this project, we may be able to solve these problems.
 
 ## Approach
 
@@ -34,18 +44,55 @@ We analysis the dataset abstract generated previously and measure the similarity
 
 We would profile the dataset with overlap we found, apply our data clean strategies. Due to the large scale of the data, we mainly focus on the columns which could generate some reference data, and dataset with high overlap rate with the dataset "Citywide Payroll Data (Fiscal Year)".
 
-4. Analysis results
+4. Analysis and visualise results
 
-Finally we would analysis results of our data clean job, measure the effectiveness and 
+Finally we would analysis results of our data clean job, measuring the precision and recall and visualise our data before and after cleaning, by both our orignal strategies and our refined strategies.
+
+## Tools And packages used
+
+We use blend tools to do this project, both spark and jupyter
+
+For spark, we use it to handle large scale of data, especially when we measured the similarity between different datasets. And we use jupyter to perform data profiling, cleaning and visualisation in the experiment. <br>
+
+The platform on this project was spark on NYU PEEL HPC, and python with version 3.8 locally.
+
+Below were the python packages used by us, they should be installed to reproduce the experiment:
+
+1. openclean https://pypi.org/project/openclean/
+2. pyspark https://pypi.org/project/pyspark/
+3. Pandas https://pypi.org/project/pandas/
 
 ## Ways to reproduce
 
-Since all the datasets was in the HPC server, all of our data in the report was generated with pyspark.
-All the code were included in the directory similarity_profiling, data_profiling_src, data_clean_src. All code should be able to run on a spark server and generate corresponding results.
+All the code were included in the directory jupyter_notebook and columns_overlap_src. These code should be able to run on HPC server and jupyter notebook with the same environment we used and generate corresponding results.
+
+To generate a reproducable report, you will nedd the datasets below:
+
+|  Dataset identifier   | Dataset name  |
+|  ----  | ----  |
+| bty7-2jhb  | Historical DOB Permit Issuance |
+| ptev-4hud  | License Applications |
+| hy4q-igkk  | 311 Service Requests for 2006 |
+| aiww-p3af  | 311 Service Requests for 2007 |
+| 3rfa-3xsf  | 311 Service Requests for 2009 |
+| m6ad-jy3s  | FY18 BID Trends Report Data |
+| emuv-tx7t  | FY17 BID Trends Report Data |
+| gt6r-wh7c  | FY19 BID Trends Report Data |
+| 8eq5-dtjb  | FY20 BID Trends Report Data |
+| xrwg-eczf  | SCOUT CORE |
+| un8d-rbed  | SBS ICAP Contract Opportunities - Historical |
+| acdt-2zt9  | 2021 Open Data Plan: Future Releases |
+| cwy2-px8b  | Local Law 8 of 2020 - Complaints of Illegal Parking of Vehicles Operated on Behalf of the City |
+| wye7-nyek  | Interagency Coordination and Construction Permits Data (MOSYS) |
+
+And you also should change the dataset directory in the jupyter notbook to fit your own data path.
 
 ## Deliverables:
 
-The Project Report could be found in the report directory.
+The Project Report and slides for presentation could be found in the deliverables directory.
 
-LaTeX url:
-https://www.overleaf.com/project/61ad8b91b0905eea91a432e4#
+## Contribution
+
+The link below was our google drive project directory: <br>
+
+https://drive.google.com/drive/folders/1Gmjduu2zaeupyAYgQPRpstCdkOa6LwVy?usp=sharing
