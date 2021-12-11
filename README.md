@@ -17,9 +17,9 @@ In this project, we came up with the problems below:
 * Starting from the dataset "Citywide Payroll Data (Fiscal
 Year)", how can we find the datasets with overlap fields via
 data hunting?
-* *How can we apply our data clean strategy to the datasets
+* How can we apply our data clean strategy to the datasets
 we found?
-* *How well does our original data clean strategy work? What
+* How well does our original data clean strategy work? What
 more can we learn from these datasets or what's the differ-
 ence between our original dataset and new datasets?
 * How can we improve our strategy to increase the effective-
