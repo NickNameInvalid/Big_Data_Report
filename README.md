@@ -85,7 +85,7 @@ To generate a reproducable report, you will nedd the datasets below:
 | cwy2-px8b  | Local Law 8 of 2020 - Complaints of Illegal Parking of Vehicles Operated on Behalf of the City |
 | wye7-nyek  | Interagency Coordination and Construction Permits Data (MOSYS) |
 
-And you also should change the dataset directory in the jupyter notbook to fit your own data path.
+You can obtain these datasets either via PEEL or from NYC OpenData. And you also should change the dataset directory in the jupyter notbook to fit your own data path.
 
 ## Deliverables:
 
