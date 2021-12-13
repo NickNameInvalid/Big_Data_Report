@@ -85,7 +85,13 @@ To generate a reproducable report, you will need the datasets below:
 | cwy2-px8b  | Local Law 8 of 2020 - Complaints of Illegal Parking of Vehicles Operated on Behalf of the City |
 | wye7-nyek  | Interagency Coordination and Construction Permits Data (MOSYS) |
 
-You can obtain these datasets either via PEEL or from NYC OpenData. And you also should change the dataset directory in the jupyter notbook to fit your own data path.
+You can obtain these datasets either via PEEL or from NYC OpenData, rename the dataset as we specified in the jupyter notebook. <u>And you also should change the dataset directory in the jupyter notbook to fit your own data path, our suggestion was to create a folder called 'project_data' in the root folder, and put all datasets there.</u>
+
+For jupyter notebook: <br>
+You can run all the jupyter notebook programs in jupyter_notebook folder and generate the results we obtained from our experiment.<br>
+
+For spark program: <br>
+Though our results were included in the similarity_profiling folder, you can run the spark program in spark_src fold to generate columns abstract for large scale of datasets, you should run this program on NYU HPC server.
 
 ## Deliverables:
 
