@@ -66,7 +66,7 @@ Below were the python packages used by us, they should be installed to reproduce
 
 All the code were included in the directory jupyter_notebook and columns_overlap_src. These code should be able to run on HPC server and jupyter notebook with the same environment we used and generate corresponding results.
 
-To generate a reproducable report, you will nedd the datasets below:
+To generate a reproducable report, you will need the datasets below:
 
 |  Dataset identifier   | Dataset name  |
 |  ----  | ----  |
